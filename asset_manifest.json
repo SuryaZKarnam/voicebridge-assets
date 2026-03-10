@@ -1,0 +1,2266 @@
+{
+  "backgrounds": [
+    {
+      "id": "treehouse_at_sunset_overlooking_valley",
+      "file": "backgrounds/treehouse_at_sunset_overlooking_valley.png",
+      "description": "A vibrant cartoon-style illustration of a whimsical treehouse built into a massive, ancient tree, bathed in the warm glow of a sunset. The sky transitions from a fiery orange-red near the horizon to a soft purple and deep blue overhead, with stylized clouds scattered throughout. The treehouse itself is made of colorful, mismatched wooden planks with a round door, a small balcony, and a multi-colored shingled roof, from which a tattered flag with a compass emblem flies. A sign hangs beside the door that reads 'ADVENTURES AWAIT!'. String lights illuminate the treehouse structure and branches. A winding wooden staircase with rope railings descends from the treehouse, leading to unseen lower branches. A tire swing hangs from a sturdy branch on the right. In the distance, a serene landscape unfolds with rolling hills, a winding river, and a quaint village with small houses, all rendered with a soft, inviting aesthetic. Birds are seen nesting and perched on branches. The overall atmosphere is magical and adventurous, with warm light and shadow play.",
+      "walkable_y_min": 0.75,
+      "walkable_y_max": 0.98,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "dusty_attic_at_sunset",
+      "file": "backgrounds/dusty_attic_at_sunset.png",
+      "description": "An empty, rustic attic room bathed in the warm, golden light of a sunset. The scene is dominated by exposed wooden structural beams and floorboards, rendered in a stylized, hand-drawn aesthetic. A large, arched window centered on the far wall looks out onto a vibrant orange and purple sky, with the silhouettes of distant trees. Sunbeams stream through the window, casting long, rectangular shadows across the wooden floor and illuminating fine dust particles suspended in the air. Delicate cobwebs are visible in various corners and between the ceiling beams, adding to the room's disused charm. The overall composition creates a cozy yet slightly melancholic atmosphere.",
+      "walkable_y_min": 0.6,
+      "walkable_y_max": 1.0,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "cozy_bedroom_night_scene",
+      "file": "backgrounds/cozy_bedroom_night_scene.png",
+      "description": "A tranquil and cozy bedroom is depicted at night, bathed in the soft, ambient blue light filtering through a large window that overlooks a starry sky with a crescent moon and silhouetted trees. On the left, a neatly made bed with blue striped covers holds a sleeping light brown cat. Beside the bed, a wooden nightstand with a drawer supports a warm-glowing table lamp, a glass of water, and a small, white item. To the right, a tall wooden bookshelf is packed with books, various decorative items including a potted plant, and what appears to be a small terrarium. On the walls, there are posters depicting a galaxy, a forest, and a 'Night Owls' sign with an owl illustration. A guitar leans against the nightstand, and a desk with a chair is partially visible on the far right, where a drawing lies on the surface. On the wooden floor, a backpack, some discarded clothing, and a teddy bear head are visible near the bed. A patterned rug covers part of the floor, and a pair of slippers rests near the nightstand. The composition is peaceful and inviting, with warm light contrasting the cool blue tones of the night.",
+      "walkable_y_min": 0.8,
+      "walkable_y_max": 1.0,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "cozy_kids_bedroom_sunset_fairy_lights",
+      "file": "backgrounds/cozy_kids_bedroom_sunset_fairy_lights.png",
+      "description": "A warm and inviting cozy kids' bedroom is depicted during sunset or golden hour, with soft light streaming through a large bay window on the left. The room is adorned with glowing fairy lights strung across the windows and along the wall, creating a magical ambiance. In the center, a comfortable bed with a colorful patchwork quilt is neatly made, featuring several plush toys including a blue bear, a fox, a green dragon, and a pink bunny. To the right of the bed, a wooden nightstand holds a charming mushroom-shaped lamp, an alarm clock, and two small potted plants. On the far right, a sturdy wooden desk with a chair offers a space for creativity, displaying a stack of books, a steaming mug, a notebook, and pencils. A large wooden bookshelf filled with more books and decorative items stands against the far right wall. The floor is covered by a light-colored rug with playful, colorful patterns, and long shadows are cast across it by the late afternoon sun, enhancing the room's serene and whimsical atmosphere.",
+      "walkable_y_min": 0.7,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "cozy_fireplace_living_room_night",
+      "file": "backgrounds/cozy_fireplace_living_room_night.png",
+      "description": "A warmly lit, cozy living room at night, centered around a large stone fireplace with a crackling fire and logs. Above the mantelpiece, which is made of rustic wood, rests a classic oil lantern casting a soft glow, and a large round mirror reflects hints of the room's warmth. Flanking the fireplace are two sets of glass-paned french doors, offering a view of a serene garden under a dark night sky with a prominent crescent moon and scattered stars on the left side, and silhouetted trees on the right. The room features dark wooden floorboards, partially covered by a large, colorful braided rug with a striped pattern of warm tones. Shadows from the window frames are cast across the floor and rug, creating interesting light patterns. To the far left, a framed picture hangs on a neutral-colored wall, and to the far right, a dark wooden bookshelf partially visible, alongside a potted green fern and an antique globe on a stand. The overall atmosphere is inviting and tranquil, dominated by the warm glow of the fire.",
+      "walkable_y_min": 0.6,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "cozy_fireplace_room_sunset_view",
+      "file": "backgrounds/cozy_fireplace_room_sunset_view.png",
+      "description": "A warm and inviting cartoon-style indoor scene, centered around a large stone fireplace with a crackling fire providing a soft, flickering glow. The sturdy wooden mantelpiece is adorned with various decorative vases and framed pictures, topped by a large, circular, ornate wooden medallion. Flanking the fireplace are two large double doors with multiple window panes, offering a view of a serene outdoor garden bathed in the vibrant orange and purple hues of a sunset. The room features a dark wooden floor with visible planks, partially covered by a large rectangular rug with a southwestern or geometric pattern in shades of brown, orange, and purple. Shadows from the window frames are cast across the floor and rug, intersecting with the soft, ambient light from the fireplace, which creates a cozy and peaceful ambiance. To the far right, a partial view of a dark wooden bookshelf filled with books is visible, adding to the homely feel. The overall composition suggests a tranquil and comfortable setting.",
+      "walkable_y_min": 0.65,
+      "walkable_y_max": 1.0,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "cozy_kids_bedroom_with_countryside_view",
+      "file": "backgrounds/cozy_kids_bedroom_with_countryside_view.png",
+      "description": "A bright and inviting child's bedroom illuminated by natural sunlight streaming through two large windows on the left. The room features a light wooden bed with patterned bedding, a matching toy chest filled with stuffed animals, and two tall bookshelves packed with colorful books and toys. The walls are decorated with a cheerful cloud pattern and a colorful bunting banner, while the window curtains display playful animal and plant motifs. A small wooden desk with art supplies and a chair sits to the right, and a striped blue rug covers part of the wooden floor. Beyond the windows, a verdant countryside scene with rolling hills and a distant village church is visible under a clear blue sky.",
+      "walkable_y_min": 0.75,
+      "walkable_y_max": 0.98,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "cozy_living_room_with_fireplace",
+      "file": "backgrounds/cozy_living_room_with_fireplace.png",
+      "description": "A warm and inviting living room scene, rendered in a clean 2D cartoon style. The room features a prominent brick fireplace with a burning fire, a wooden mantelpiece adorned with a round mirror, framed photos, and decorative vases. On either side of the fireplace are tall white French doors that open to a lush green garden under a clear blue sky. Sunlight streams through the windows, casting distinct rectangular shadows across the polished wooden floor and a colorful striped rug. A tall potted fiddle-leaf fig plant stands to the right, next to a wooden bookshelf filled with books. The overall composition creates a cozy and bright atmosphere.",
+      "walkable_y_min": 1.0,
+      "walkable_y_max": 0.58,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "cozy_house_garden_at_night",
+      "file": "backgrounds/cozy_house_garden_at_night.png",
+      "description": "The image depicts a charming, cozy house at night, illuminated by warm lights from its windows and front door, creating a welcoming glow. A winding cobblestone path leads up to the porch, flanked by solar lights. The foreground features a vibrant green lawn dotted with numerous glowing fireflies and delicate flowers in various hues. To the left, a large, leafy tree adorned with string lights hosts a watchful owl on one of its branches. The night sky is a deep blue, speckled with numerous twinkling stars, and a luminous crescent moon hangs prominently in the upper left. A distant streetlamp casts a gentle beam of light. On the porch, a sleepy cat rests on a swing, while a garden gnome peacefully naps under a large glowing mushroom near the path's end. The overall composition is serene and magical, with warm and cool light sources creating a sense of depth and tranquility.",
+      "walkable_y_min": 0.68,
+      "walkable_y_max": 0.98,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "cozy_rainy_bedroom_with_stuffed_animals",
+      "file": "backgrounds/cozy_rainy_bedroom_with_stuffed_animals.png",
+      "description": "The scene depicts a warm and inviting cartoon-style bedroom on a rainy day, viewed from a slightly elevated perspective. A large bay window on the left side of the room reveals a gentle rain falling outside, with lush green trees, rolling hills, and a glimpse of houses in the distance under a soft, cloudy sky. Colorful string lights with glowing bulbs are strung across the top of the walls, adding a whimsical and cozy ambiance. The room features a prominent wooden bed with a vibrant patchwork quilt, adorned with an assortment of adorable stuffed animals including a blue bear, a fox, two sleeping cats, an owl, a hedgehog, a green dragon, and a pink bunny. A bedside table made of light wood, shaped with rounded edges, holds a cheerful mushroom-shaped lamp that casts a warm glow, an analog alarm clock, and two small potted plants. On the right side of the room, a rustic wooden desk is set with a stack of captivating storybooks, a steaming mug of hot chocolate topped with marshmallows, an open picture book displaying cartoon animals, a notebook, and pencils. A tall wooden bookshelf filled with more books completes the right wall. The overall lighting is soft and comforting, combining the muted daylight from the rainy window with the warm artificial lights, creating a peaceful and playful atmosphere. The composition is well-balanced, inviting the viewer to explore the many charming details within the room.",
+      "walkable_y_min": 0.78,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "cozy_fireplace_room_rainy_night",
+      "file": "backgrounds/cozy_fireplace_room_rainy_night.png",
+      "description": "The image depicts a cozy, warmly lit indoor scene at night, viewed from a slightly low angle. A large stone fireplace with a crackling fire is centered, adorned with a decorative circular relief, vases, and framed pictures on its wooden mantle. Flanking the fireplace are two sets of white-framed French doors, through which a rainy night scene is visible, with faint silhouettes of trees and the shimmering streaks of rain on the glass. The room is dimly lit by the cool blue light from the outside windows and the warm orange glow emanating from the fireplace, casting distinct shadows of the window panes onto the wooden floor. A patterned rug in earthy tones covers the central floor area, partially illuminated by the firelight and partially by the cool window light. To the far right, a partial dark wooden bookshelf filled with books is visible. The overall composition creates a sense of comfort and serenity during a stormy night.",
+      "walkable_y_min": 0.61,
+      "walkable_y_max": 0.96,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "cozy_cartoon_house_with_colorful_garden",
+      "file": "backgrounds/cozy_cartoon_house_with_colorful_garden.png",
+      "description": "A brightly lit, whimsical cartoon scene depicting a cozy suburban house with a vibrant, colorful garden under a clear blue sky with fluffy white clouds. The two-story house features light yellow siding, a blue shingled roof, a red front door, and a welcoming porch swing on its front porch. A path made of colorful, rounded stepping stones leads from the foreground to the front door, where a 'WELCOME HOME!' doormat rests. The meticulously maintained front yard consists of lush green grass dotted with daisies and dandelions. On the left side, a blue mailbox numbered '142' is adorned with cheerful flowers. The garden beds bordering the house and path burst with an array of blossoms including sunflowers, tulips, hydrangeas, roses, and various other colorful flowers. A small garden gnome peeks out from one flowerbed, and a bright yellow watering can sits near a light blue birdbath with a small brown bird perched on its rim, adding to the idyllic charm. Other blurred houses are visible in the background, suggesting a friendly, tree-lined neighborhood.",
+      "walkable_y_min": 0.7,
+      "walkable_y_max": 0.98,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "vibrant_treehouse_with_birds",
+      "file": "backgrounds/vibrant_treehouse_with_birds.png",
+      "description": "A vibrant and intricately designed treehouse is nestled within the sprawling branches of a majestic oak tree under a clear, sunny sky. The treehouse features a multi-colored, shingled roof, a round wooden door, and a window with a map inside. A playful 'NO GROWN-UPS ALLOWED' sign hangs beside the door. Access to the treehouse is provided by a rope ladder with colorful rungs and a whimsical spiral staircase crafted from varied colored planks. A tire swing hangs from a sturdy branch to the left, and a bucket-and-pulley system is visible near the treehouse entrance. Several birds inhabit the tree: a small brown bird and a blue jay on the left, and two owls (one large, one small) on the right. The scene is brightly lit by natural sunlight, casting dappled shadows on the tree trunk and the grassy ground below. The composition is balanced, with the tree and treehouse as the central focal point, surrounded by lush green foliage and a cheerful blue sky. Distant blurred trees add depth to the background.",
+      "walkable_y_min": 0.89,
+      "walkable_y_max": 0.86,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "cozy_winter_neighborhood_with_snowman_and_birds",
+      "file": "backgrounds/cozy_winter_neighborhood_with_snowman_and_birds.png",
+      "description": "The image depicts a charming and cozy winter neighborhood scene under a light blue sky with large, delicate snowflakes gently falling. In the foreground, a warm, inviting cottage-style house with light wood siding and a red front door is covered in a thick blanket of fresh snow. A festive wreath hangs on the door, and golden light spills from its windows, suggesting warmth within. Smoke gently curls from a brick chimney on the roof. A winding stone path, partially covered in snow, leads to the front door, flanked by snow-dusted evergreen bushes and red-berried shrubs. To the right, a large, bare tree, also laden with snow and adorned with red berries, hosts several birds, including blue jays and sparrows, some perched on branches and one near a bird feeder. A cheerful snowman, wearing a black top hat and a striped scarf, stands to the left of the pathway. The ground is entirely covered in pristine white snow, showing various animal footprints and human footprints leading up to the house. In the mid-ground and background, other snow-covered houses, fences, and evergreen trees create a peaceful, idyllic village atmosphere. The overall composition evokes a strong sense of serene winter beauty and holiday cheer.",
+      "walkable_y_min": 0.65,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "magical_crystal_cave_with_glowing_creatures_and_bridge",
+      "file": "backgrounds/magical_crystal_cave_with_glowing_creatures_and_bridge.png",
+      "description": "A vibrant, magical crystal cave scene bathed in an ethereal glow. The composition features a central pond reflecting colorful crystals and a stone bridge arching gracefully over it. The cave walls and ceiling are adorned with numerous sharp, multifaceted crystals in shades of purple, blue, and teal, many of which emit a soft, internal light. Above, an irregular opening reveals a starry night sky with a crescent moon, casting a gentle moonlight into the cave. Various glowing, stylized creatures, including bats, butterflies, and small ghost-like entities, float playfully through the air, adding to the mystical ambiance. The foreground shows a winding, paved path leading to the bridge, lined with smaller glowing flora and intricate rock formations. The overall lighting is dim but enchanting, with strong localized glows emanating from the crystals, luminous moss, and flying creatures. The art style is cartoonish and friendly, featuring clear outlines and a rich color palette suitable for a kids' game.",
+      "walkable_y_min": 0.75,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "dark_starry_night_sky",
+      "file": "backgrounds/dark_starry_night_sky.png",
+      "description": "This background features a vast, dark, purplish-grey expanse reminiscent of a night sky or deep space. Scattered across the entire frame are numerous small, faint, four-pointed star-like shapes. These ethereal sparkles vary slightly in size and intensity, appearing translucent and giving a sense of distant light sources against the deep, muted backdrop. The overall mood is calm and atmospheric, suggesting an infinite, tranquil void.",
+      "walkable_y_min": 0.85,
+      "walkable_y_max": 0.85,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "dusty_attic_with_sunlight",
+      "file": "backgrounds/dusty_attic_with_sunlight.png",
+      "description": "A wide 16:9 landscape picture showing the interior of a dusty, old attic. The room is constructed from rough wooden planks, forming the floor, sloped walls, and ceiling. Prominent dark wooden support beams crisscross the ceiling, and several delicate white spiderwebs are visible in the upper corners. A small, gridded window is centered on the back wall, through which bright golden sunlight streams, creating distinct light rays that highlight numerous tiny dust particles suspended in the air. The overall lighting is warm and somewhat dim, with the sunbeams creating a strong focal point and a sense of forgotten tranquility.",
+      "walkable_y_min": 0.58,
+      "walkable_y_max": 1.0,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "magical_fairy_forest_village_daytime",
+      "file": "backgrounds/magical_fairy_forest_village_daytime.png",
+      "description": "A vibrant and whimsical cartoon forest scene, depicting a magical fairy village bathed in bright daylight. Towering trees with lush green canopies dominate the landscape, their thick trunks serving as foundations for numerous charming fairy houses with wooden doors and glowing windows. Mossy stairs and winding paths ascend the trees, connecting these abodes. On the ground, large red-and-white spotted mushroom houses and a pumpkin house are nestled amidst a verdant landscape of rolling hills, colorful flowers, and rich green grass. A sparkling river meanders through the foreground, crossed by both a stone bridge and a wooden bridge. Small, winged fairies flutter joyfully through the air, adding to the enchanting atmosphere. The sky above is a clear, bright blue with soft white clouds, illuminated by a warm, unseen light source suggesting a sunny day. The overall composition is cheerful and inviting, with a strong sense of depth and intricate details.",
+      "walkable_y_min": 0.68,
+      "walkable_y_max": 0.92,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "enchanted_fairy_forest_sunset",
+      "file": "backgrounds/enchanted_fairy_forest_sunset.png",
+      "description": "A vibrant and detailed illustration of an enchanted fairy forest at sunset. Towering, ancient trees serve as homes, featuring mushroom-capped roofs, quaint doors, and glowing windows, with some accessible by ladders and stairs. Fairies with delicate wings are seen flitting amongst the branches and perching on leaves. The warm glow of the setting sun bathes the forest in hues of orange, pink, and purple, casting long rays of light through the trees and illuminating the path and a winding stream that flows through the foreground. The ground is lush with various colorful mushrooms, vibrant flowers, ferns, and glowing fireflies. The overall composition creates a magical, inviting, and peaceful atmosphere.",
+      "walkable_y_min": 0.68,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "cozy_forest_cabin_at_dusk_with_animals_and_ghosts",
+      "file": "backgrounds/cozy_forest_cabin_at_dusk_with_animals_and_ghosts.png",
+      "description": "A charming and rustic wooden cabin nestled deep within a lush, mystical forest at dusk. The sky is painted with vibrant orange, pink, and purple hues, illuminated by a pale crescent moon. The cabin itself features a weathered, moss-covered roof with a sturdy chimney, and warm light spills from its windows, suggesting coziness within. Surrounding the cabin is a winding dirt path, flanked by various glowing mushrooms, lush foliage, and ancient trees. Several whimsical creatures inhabit the scene: a wise owl perched on a branch, a curious squirrel near the porch, two small bunnies on the path, a robin on the porch, and a playful spider in a web high up in a tree. Small, ethereal ghosts drift gently through the air, adding a touch of enchantment to the twilight scene. An axe rests on a pile of logs near the foreground, completing the idyllic, slightly magical forest dwelling.",
+      "walkable_y_min": 0.75,
+      "walkable_y_max": 0.9,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "mystical_forest_cabin_night",
+      "file": "backgrounds/mystical_forest_cabin_night.png",
+      "description": "A whimsical and atmospheric illustration of a rustic wooden cabin nestled deep within a magical forest at night. The cabin features a moss-covered gabled roof, a stone chimney, and a warmly glowing window, suggesting a cozy interior. Lush, dark green trees with thick trunks frame the scene, their canopies hinting at the unseen expanse of the forest. A crescent moon hangs in a star-dusted, deep blue sky, casting a soft, ethereal light that filters through the foliage, creating intricate shadows on the ground. The forest floor is adorned with a variety of colorful mushrooms and vibrant wildflowers, while glowing, ethereal ghost-like figures float among the trees. Various small animals, including an owl perched on a branch, a squirrel near the cabin, and a rabbit hopping on the path, add life to the enchanting scene. An axe rests on logs, and a wooden wheelbarrow sits nearby, suggesting a lived-in, quaint environment. The composition is wide and inviting, rich in detail and subdued, magical lighting.",
+      "walkable_y_min": 0.96,
+      "walkable_y_max": 0.74,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "enchanted_forest_path_with_tree_face",
+      "file": "backgrounds/enchanted_forest_path_with_tree_face.png",
+      "description": "The scene depicts a vibrant, cartoon-style forest path under a bright blue sky. Sunlight streams through the canopy, creating distinct rays and dappled shadows on the ground. The path is made of irregularly shaped gray flagstones, winding from the bottom center towards the middle right, then gently curving back into the background. Lush green grass and ferns line the path. On the far left, a prominent, ancient tree trunk with a friendly, wise face carved into its bark smiles at the viewer, surrounded by green foliage at its base. Numerous other trees with varying shades of green and yellow leaves extend into the background, adding depth to the forest. Small, glowing particles are scattered throughout the air, suggesting a magical or enchanted atmosphere. The overall mood is peaceful and inviting.",
+      "walkable_y_min": 0.58,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.65
+      }
+    },
+    {
+      "id": "medieval_castle_gate_village_sunset",
+      "file": "backgrounds/medieval_castle_gate_village_sunset.png",
+      "description": "The image depicts a grand medieval castle gate with a sturdy wooden drawbridge lowered over a tranquil moat, inviting passage into a vibrant village beyond. The entire scene is bathed in the warm, rich glow of a sunset, painting the sky in fiery oranges, soft yellows, and deep purples, with gently floating clouds. Tall, weathered stone castle walls flank the main archway, adorned with colorful banners featuring a golden lion on blue and a green dragon, as well as decorative carvings of lions and griffins above the arch. To the left, a winding dirt path leads through a lush, grassy landscape dotted with wildflowers, past quaint timber-framed houses with colorful roofs, and disappears into a dense forest silhouetted against the horizon. The moat beneath the drawbridge shimmers with reflections of the sunset, and scattered lily pads float on its surface. The overall composition is evocative of a whimsical fairy tale setting, offering depth and a clear sense of adventure.",
+      "walkable_y_min": 0.78,
+      "walkable_y_max": 0.96,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "mystical_crystal_cave_with_glowing_pond_and_bats",
+      "file": "backgrounds/mystical_crystal_cave_with_glowing_pond_and_bats.png",
+      "description": "This enchanting underground scene depicts a vast crystal cave bathed in a cool, ethereal blue and purple light emanating from numerous glowing crystals and bioluminescent flora. A large central opening at the top reveals a celestial, star-filled sky, casting a gentle glow into the cavern. A serene, shimmering pond with glowing fish occupies the foreground, traversed by an ornate stone bridge on the left. The cave walls are adorned with jagged, luminous crystals of various sizes and shades of blue, teal, and purple. Mysterious glowing bats and butterflies flutter through the air, adding to the magical ambiance. The composition features distinct foreground elements like the pond and bridge, a central cluster of large, prominent crystals, and a background receding into shadowy cave depths, creating a sense of wonder and depth.",
+      "walkable_y_min": 0.8,
+      "walkable_y_max": 0.92,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "enchanted_forest_with_fairy_houses_and_glowing_stream",
+      "file": "backgrounds/enchanted_forest_with_fairy_houses_and_glowing_stream.png",
+      "description": "This enchanting scene depicts a magical forest at night, illuminated by the soft glow of numerous fairy houses nestled within ancient trees and large mushrooms. The dominant colors are deep blues, greens, and purples for the night sky and foliage, contrasted with warm yellow and orange light emanating from the windows of the houses. The composition features large, gnarled trees on both sides of a winding path and sparkling stream, creating a sense of depth and wonder. Fireflies hover throughout the air, adding to the ethereal ambiance. Various houses are crafted from natural elements like gourds, mushrooms, and wood, connected by wooden ladders and winding staircases. Luminous flowers and tiny glowing elements dot the forest floor and stream, enhancing the magical atmosphere.",
+      "walkable_y_min": 0.78,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.87
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.87
+      }
+    },
+    {
+      "id": "glowing_red_crystal_cave_with_molten_river",
+      "file": "backgrounds/glowing_red_crystal_cave_with_molten_river.png",
+      "description": "A vibrant and fantastical underground cave scene, bathed in the warm, fiery glow of numerous red and orange crystals. The cavern features a central molten river with bubbling surfaces, crossed by an ornate stone bridge adorned with smaller crystals. Various small, whimsical creatures inhabit the cave, including a fire bat, a glowing insect, a mechanical orb, and other elemental-looking sprites. The cave walls are rough-hewn rock, studded with glowing crystal formations and dripping molten material. In the background, an opening reveals a swirling red galaxy, suggesting a cosmic connection. The overall composition is detailed and whimsical, with strong warm lighting emanating from the crystals and molten lava, creating a dynamic and enchanting atmosphere.",
+      "walkable_y_min": 0.7,
+      "walkable_y_max": 0.85,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "magical_crystal_cave_with_river_and_bridge",
+      "file": "backgrounds/magical_crystal_cave_with_river_and_bridge.png",
+      "description": "A vibrant, enchanting crystal cave illuminated by natural light, featuring a clear, sparkling river flowing under a decorative stone bridge. The cave walls and ceiling are adorned with numerous glowing crystals of various sizes and colors, predominantly purples, blues, and greens. Small, lush plants and moss-like growths cling to the rocky surfaces. Adorable winged creatures, resembling bats and butterflies, flit among the crystals. Bright, ethereal sunlight streams through a large opening at the top of the cave, casting long rays and creating brilliant rainbow refractions across the scene. This light highlights the reflective surfaces of the crystals and shimmers on the water's surface, creating a magical glow throughout. The composition leads the eye from the brightly lit cave entrance down to the river and bridge in the mid-ground. The river flows from left to right, reflecting the overhead light and crystals. The bridge provides a central horizontal element, connecting the left and right sides of the cave floor. Large crystal formations frame the view, adding depth and a sense of wonder.",
+      "walkable_y_min": 0.75,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "enchanted_meadow_sunset_glowing_flowers_and_wildlife",
+      "file": "backgrounds/enchanted_meadow_sunset_glowing_flowers_and_wildlife.png",
+      "description": "An enchanting meadow scene captured at the magical moment of sunset or dusk. The sky transitions from a fiery orange-yellow on the horizon, where the sun is either rising or setting, through soft pinks and purples, to a deep indigo overhead, adorned with a delicate crescent moon. The air is alive with numerous luminous butterflies or fireflies, trailing sparkling light as they drift across the sky and weave through the swaying grass of the meadow. Many of the diverse wildflowers in the foreground\u2014including bright white daisies, vibrant red and orange poppies, purple tulips, and various bellflowers\u2014also emit a soft, warm glow, creating a whimsical and ethereal ambiance. A winding dirt path curves from the bottom center into the mid-ground, inviting exploration. Wildlife peacefully coexists within the scene: a small owl peeks from behind tall grass on the left, a brown rabbit sits contentedly on a small hillock in the mid-ground to the left, and a graceful deer walks across the glowing field on the right. Rolling hills covered in dark, coniferous trees line the distant horizon, silhouetted against the radiant twilight sky.",
+      "walkable_y_min": 0.6,
+      "walkable_y_max": 0.85,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "magical_night_meadow_with_fireflies_and_flowers",
+      "file": "backgrounds/magical_night_meadow_with_fireflies_and_flowers.png",
+      "description": "The scene depicts a serene and magical meadow at night under a brilliant crescent moon and a star-studded dark blue sky. Numerous glowing fireflies illuminate the scene, forming shimmering trails and clusters across the sky and field, with some appearing as glowing butterflies. The foreground is a vibrant field of tall green grass interspersed with various colorful cartoon-style flowers, including prominent white daisies, red poppies, purple bellflowers, and bluebells. Many of these flowers emit a soft, magical glow, and musical notes float gently around them. A narrow, winding dirt path meanders through the tall grass from the bottom center towards the middle distance. An adorable, sleeping grey owl is nestled in the grass on the left side, and a small, glowing green firefly larva is visible on the path in the foreground. The background features rolling hills covered with dark, silhouetted evergreen trees against the deep blue twilight sky. The overall lighting is soft, ethereal, and magical, with the moon providing a gentle glow from the upper right. The composition draws the eye through the winding path into the enchanting expanse of the meadow.",
+      "walkable_y_min": 0.58,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "cozy_night_treehouse_with_fireflies",
+      "file": "backgrounds/cozy_night_treehouse_with_fireflies.png",
+      "description": "This enchanting 2D background depicts a vibrant, colorful treehouse nestled high within the branches of a large, ancient tree under a clear night sky. A crescent moon with small craters and numerous sparkling stars illuminate the dark blue sky, creating a whimsical atmosphere. The treehouse itself is constructed from various colored wooden planks, featuring an arched doorway, multiple windows with heart-shaped cutouts, and a small attic dormer. Warm, inviting light spills from the windows and from several hanging lanterns, one inside the treehouse and others suspended from branches. A rope ladder and colorful wooden steps provide access to the treehouse, while a sign on the tree trunk playfully declares 'NO GROWN-UPS ALLOWED'. Fireflies with glowing abdomens flutter around the tree, adding to the magical glow. A pulley system with a wooden bucket and a tire swing hang from the sturdy branches, suggesting playful activities. The overall composition is lively and inviting, with a palette of deep greens, blues, and warm yellows and oranges from the lights, against a deep blue sky.",
+      "walkable_y_min": 0.9,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "magical_forest_path_at_sunset_with_tree_person",
+      "file": "backgrounds/magical_forest_path_at_sunset_with_tree_person.png",
+      "description": "The image depicts a magical forest scene at what appears to be either sunset or twilight, bathed in warm, glowing light. A winding cobblestone path leads from the foreground towards the hazy horizon. On the left, a large, ancient tree with a wise, smiling face carved into its trunk and glowing yellow eyes dominates the scene, its roots spreading across the grassy ground. The forest is filled with numerous trees, some with vibrant orange and red foliage, others with darker green leaves, all adorned with small, twinkling yellow lights or glowing particles that drift upwards. The sky transitions from deep purple at the top left to a bright, fiery orange and yellow at the horizon, suggesting a powerful light source beyond the trees. Scattered glowing embers or fireflies add to the enchanting atmosphere on the path and in the grass. Large rock formations are visible in the mid-ground, silhouetted against the bright sky. The overall composition creates a sense of depth and wonder, with the path inviting exploration into the mystical woods.",
+      "walkable_y_min": 0.6,
+      "walkable_y_max": 0.9,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "fairytale_castle_gate_village_moat",
+      "file": "backgrounds/fairytale_castle_gate_village_moat.png",
+      "description": "A vibrant, cartoonish illustration of a grand medieval castle gatehouse with an open drawbridge over a sparkling blue moat. Lush green grass with subtle glowing elements surrounds the moat, and a dirt path leads up to the wooden drawbridge. Beyond the gate, a picturesque village with colorful-roofed houses and market stalls is visible, topped by more castle towers. On the left side of the moat, a forested hill rises, dotted with more quaint houses. The sky is bright blue with fluffy white clouds. Various flags, featuring a golden lion, a green dragon, and a yellow sun, wave proudly from the castle's battlements and towers. Ducks swim playfully in the moat, and small fish are visible in the clear water. The overall lighting is bright and cheerful, suggesting a sunny day in a whimsical kingdom.",
+      "walkable_y_min": 0.75,
+      "walkable_y_max": 0.9,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "magical_moonlit_forest_path_with_wise_tree",
+      "file": "backgrounds/magical_moonlit_forest_path_with_wise_tree.png",
+      "description": "A serene and enchanting moonlit forest scene featuring a winding path of luminous, irregularly shaped hexagonal stones that recedes into the distance. Tall, dark, stylized trees with varying shades of blue and purple dominate the background, some adorned with glowing leaves or ethereal, firefly-like lights. The most prominent feature is a large, gnarled tree on the left foreground, which possesses a wise, smiling face with glowing yellow eyes and subtle green leafy eyebrows. A pale, crescent moon shines brightly in the upper right quadrant, casting a soft, cool blue glow over the entire forest. This cool light contrasts with the warm, golden illumination emanating from the path stones and scattered glowing orbs, creating a magical ambiance. The composition draws the eye along the path, providing a sense of depth and mystery.",
+      "walkable_y_min": 0.68,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "night_castle_drawbridge_moat_village",
+      "file": "backgrounds/night_castle_drawbridge_moat_village.png",
+      "description": "The scene depicts a grand, stone castle at night, illuminated by numerous warm, flickering torches and a prominent crescent moon in the dark blue, starry sky. A sturdy wooden drawbridge, with chains securing it, extends across a tranquil moat, leading to the castle's imposing main gate, which features carved lion and griffin crests. Various colorful flags with animal emblems (lion, dragon, sun) fly from the castle's battlements. In the background, a quaint village with glowing windows is nestled among dark evergreen trees and rolling hills, visible under the moonlit sky, suggesting a peaceful, fantasy setting. A winding path in the foreground leads towards the drawbridge, lit by ground torches. The composition is balanced, with the castle dominating the center, and elements like the moat and path guiding the eye through the scene.",
+      "walkable_y_min": 0.7,
+      "walkable_y_max": 0.9,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "sparkling_purple_night_sky",
+      "file": "backgrounds/sparkling_purple_night_sky.png",
+      "description": "A dark, muted purple background is scattered with numerous small, glowing, four-pointed stars in a lighter shade of purple. The stars are randomly distributed across the entire canvas, varying slightly in size and intensity, creating a gentle, twinkling effect that suggests a magical night sky or a peaceful outer space. The overall composition is simple yet atmospheric, providing a serene backdrop suitable for dreamy or celestial scenes.",
+      "walkable_y_min": 0.0,
+      "walkable_y_max": 0.0,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "rainy_medieval_castle_gate_and_village",
+      "file": "backgrounds/rainy_medieval_castle_gate_and_village.png",
+      "description": "This wide landscape image depicts a medieval castle gate with a functional drawbridge extended over a moat, all under a dreary, rainy sky. The castle itself is made of grey stone, adorned with various flags and banners featuring lions and dragons, suggesting different factions or heraldry. Rain streaks are visible across the entire scene, creating a sense of dampness and reflecting softly on wet surfaces like the drawbridge planks and the moat water. In the background, beyond the castle walls, a charming village with various colorful houses and pointed roofs can be seen nestled among green hills and sparse trees. To the left, a dense pine forest borders the village. The composition is centered around the impressive castle gate, with the drawbridge leading the eye into the scene. The lighting is soft and diffused, characteristic of an overcast, rainy day.",
+      "walkable_y_min": 0.78,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "rainy_meadow_with_glowing_flowers_and_animals",
+      "file": "backgrounds/rainy_meadow_with_glowing_flowers_and_animals.png",
+      "description": "A charming and whimsical landscape depicts a lush green meadow under a gentle rain, with dark, cloudy skies above. Rolling hills covered in dense forest trees form the background, adding depth to the scene. The foreground is a vibrant tapestry of various wildflowers, including poppies, bellflowers, and daisies, many of which emit a soft, warm glow, appearing almost magical. A winding dirt path meanders through the tall grass, creating a sense of invitation. Numerous small animals inhabit the scene: snails crawl on leaves and flowers, an owl perches serenely, butterflies flutter with glowing wings, a frog sits in a puddle, a rabbit peeks from the grass, and a deer grazes on a distant hill. Musical notes float in the air, enhancing the enchanting atmosphere. The lighting is soft and diffused due to the overcast sky and rain, but the glowing elements provide focal points of warmth and wonder.",
+      "walkable_y_min": 0.5,
+      "walkable_y_max": 0.9,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "enchanted_rainy_forest_with_treehouses_and_fireflies",
+      "file": "backgrounds/enchanted_rainy_forest_with_treehouses_and_fireflies.png",
+      "description": "A lush, enchanting forest scene under gentle rain, filled with whimsical treehouses and glowing elements. Two massive, ancient trees dominate the foreground, adorned with various small dwellings resembling mushroom caps and pumpkins, accessible via wooden ladders and moss-covered stairs. Fireflies glow softly, providing ambient light alongside lanterns and the warm glow from the houses' windows. A winding dirt path and a narrow, sparkling stream flow through the misty, verdant ground, which is dotted with diverse fungi and delicate, glowing bell-shaped flowers. The background fades into a serene, fog-laden woodland under a cloudy sky, enhancing the magical atmosphere.",
+      "walkable_y_min": 0.8,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.88
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.88
+      }
+    },
+    {
+      "id": "rainy_day_treehouse_forest",
+      "file": "backgrounds/rainy_day_treehouse_forest.png",
+      "description": "A whimsical treehouse, crafted from colorful mismatched wooden planks and featuring a shingled roof, is nestled securely within the sturdy branches of a large, ancient tree. It's a rainy day, with visible raindrops falling from the grey, overcast sky and collecting on leaves and the treehouse roof. Warm, inviting light glows from within the treehouse windows and a hanging lantern by the entrance, contrasting with the cool, misty blues and greens of the surrounding forest that recedes into a soft, atmospheric background. A winding wooden staircase with mossy steps leads up to the treehouse door. On a branch to the right, two small birds, one blue-tit and one robin, huddle under broad leaves for shelter. A rainbow-colored flag with an anchor emblem proudly flies near the treehouse entrance.",
+      "walkable_y_min": 0.78,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "dusty_attic_with_moonlight",
+      "file": "backgrounds/dusty_attic_with_moonlight.png",
+      "description": "The scene depicts the interior of a dusty, dimly lit attic. The architecture is characterized by dark wooden planks forming the sloped ceiling and floor, supported by visible wooden beams and posts that create a strong sense of depth and perspective. A circular window, divided into four panes by a cross, is centrally located on the far wall, emitting a strong, cool blue light. This moonlight casts sharp, angular shadows of the rafters onto the opposite side of the sloped ceiling and illuminates the dusty floor directly beneath the window. Numerous small, light particles (dust motes) are visible floating within the moonbeam, adding to the atmosphere. The overall color palette is dominated by deep blues and purples, emphasizing the nighttime setting and the dusty, abandoned feel of the space. The wooden floor in the foreground appears worn, with some visible dirt patches along a central path.",
+      "walkable_y_min": 0.7,
+      "walkable_y_max": 0.98,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "dark_attic_with_thunderstorm_window",
+      "file": "backgrounds/dark_attic_with_thunderstorm_window.png",
+      "description": "The image depicts a dimly lit, dusty attic with exposed wooden rafter beams forming the roof structure and worn, aged wooden floorboards. The perspective is a wide, deep shot looking towards the back of the attic, creating a sense of depth and space. At the far end, an arched window serves as a focal point, through which a dramatic thunderstorm is visible, illuminated by a bright, jagged lightning strike. This exterior light casts subtle blue hues and dramatic shadows into the attic, enhancing the eerie and suspenseful atmosphere. Fine particles, possibly dust motes or rain, are visible in the air, catching the light from the storm.",
+      "walkable_y_min": 0.73,
+      "walkable_y_max": 1.0,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "rainy_forest_cabin_thunderstorm",
+      "file": "backgrounds/rainy_forest_cabin_thunderstorm.png",
+      "description": "A detailed, wide landscape image depicting a rustic, moss-covered wooden cabin nestled deep within a dark, rain-soaked forest during a thunderstorm. Bright blue lightning flashes across the sky and through the tall, leafy trees, illuminating the scene. Heavy rain streaks diagonally, forming numerous puddles on the muddy path leading up to the cabin. Various colorful mushrooms and vibrant flowers dot the overgrown foreground, while an axe rests on a stack of logs. Small creatures like an owl, a squirrel, a robin, and several rabbits take shelter, and faint ghostly figures float among the trees. The overall mood is atmospheric and slightly eerie, with a fantastical, cozy element.",
+      "walkable_y_min": 0.78,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "stormy_forest_path_with_ancient_tree",
+      "file": "backgrounds/stormy_forest_path_with_ancient_tree.png",
+      "description": "The image depicts a dark and stormy forest scene. A winding dirt path, wet with rain, leads from the foreground towards a misty, lightning-struck horizon. In the mid-ground, a large, ancient tree with a weathered, sorrowful face carved into its trunk and glowing orange eyes stands prominently. Rain streaks across the scene, and fallen leaves and twigs are scattered by the wind. Multiple lightning bolts illuminate the dark, cloudy sky and the silhouetted trees in the distance, casting dramatic shadows. The overall mood is ominous and atmospheric.",
+      "walkable_y_min": 0.58,
+      "walkable_y_max": 0.95,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "suburban_house_at_sunset",
+      "file": "backgrounds/suburban_house_at_sunset.png",
+      "description": "A vibrant cartoon-style background depicting a peaceful suburban house during sunset or sunrise. The sky transitions from a soft purple at the top to a brilliant orange and golden yellow near the horizon, with stylized, fluffy clouds scattered across. A large, well-maintained green lawn stretches from the foreground to the house, flanked by a paved driveway or walkway. A prominent, leafy tree frames the scene from the right foreground, casting long, dark shadows across the ground due to the low sun angle. Another smaller tree is visible on the far left, and a line of trees or bushes forms the distant horizon. The two-story house features multiple windows that glow warmly from within, suggesting interior lights are on, and a welcoming porch with illuminated light fixtures. The overall composition is inviting and serene, with rich, warm colors dominating the scene.",
+      "walkable_y_min": 0.75,
+      "walkable_y_max": 0.98,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "whimsical_flowery_meadow_path_with_cloud_animals",
+      "file": "backgrounds/whimsical_flowery_meadow_path_with_cloud_animals.png",
+      "description": "A vibrant and whimsical cartoon meadow scene bathed in bright, natural sunlight under a clear blue sky. The foreground features a winding dirt path bordered by lush, tall green grass and a dense array of colorful wildflowers, including red poppies, white daisies, bluebells, and purple bellflowers. Scattered musical notes and subtle magical sparkles float among the flowers, suggesting a cheerful atmosphere. Two colorful butterflies flutter over the blossoms. The path leads gently uphill towards rolling green hills in the midground, which are also dotted with smaller, colorful flowers. In the distance, a line of dark green trees provides a soft horizon. The sky is a gradient of light blue, adorned with fluffy white clouds, notably one shaped like a playful bunny on the left, another like a soaring bird in the center-top, and a larger one resembling a friendly bear's head on the right. The composition is lively, serene, and inviting.",
+      "walkable_y_min": 0.68,
+      "walkable_y_max": 0.98,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.85
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "cozy_forest_cabin_with_animals_and_path",
+      "file": "backgrounds/cozy_forest_cabin_with_animals_and_path.png",
+      "description": "A charming, rustic wooden cabin with a moss-covered shingled roof is nestled in a lush, vibrant forest. The cabin features two windows, one with a spiderweb, and a simple wooden door, all surrounded by climbing vines. A dirt path winds from the foreground, leading directly to the cabin's porch. The scene is bathed in bright, warm sunlight filtering through the abundant green canopy, creating dappled light and shadows. A red-breasted robin perches on the chimney, a brown squirrel peeks from behind a porch pillar, and two small rabbits sit on the grassy areas near the path. Various colorful wildflowers and mushrooms dot the foreground, alongside an axe resting on chopped logs and a wooden wheelbarrow to the right. The background trees are softly blurred, giving a sense of depth to the idyllic woodland setting.",
+      "walkable_y_min": 0.68,
+      "walkable_y_max": 0.88,
+      "scale_min": 0.5,
+      "scale_max": 1.0,
+      "spawn_left": {
+        "x": -0.2,
+        "y": 0.88
+      },
+      "spawn_right": {
+        "x": 1.2,
+        "y": 0.88
+      }
+    }
+  ],
+  "characters": [
+    {
+      "id": "green_alien_security_guard_with_stop_sign",
+      "file": "characters/green_alien_security_guard_with_stop_sign.png",
+      "description": "A friendly-looking green alien security guard, with three yellow eyes, two small antennae, and spiky purple hair. The alien is wearing a futuristic white and grey security uniform featuring glowing blue accents, a 'SECURITY' patch on the chest, and a star emblem on both the chest and left shoulder. A utility belt holds pouches and a walkie-talkie. The alien's exposed limbs are bright green, and it is wearing chunky grey boots with blue accents. The character is smiling and holds a bright red octagonal 'STOP' sign in its right hand, which has a subtle glow.",
+      "right_hand_anchor": {
+        "x": 0.32,
+        "y": 0.38
+      },
+      "left_hand_anchor": {
+        "x": 0.74,
+        "y": 0.61
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.08
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.78
+      }
+    },
+    {
+      "id": "young_boy_astronaut_thumbs_up_cartoon",
+      "file": "characters/young_boy_astronaut_thumbs_up_cartoon.png",
+      "description": "A cheerful young cartoon boy dressed in a white astronaut suit with blue and orange accents. He has short brown hair visible through a clear helmet visor and a wide, friendly smile, showing white teeth. His left hand, encased in a white glove, is raised in a clear thumbs-up gesture, while his right arm is bent at his side. The suit features various details, including a yellow 'EXPLORER' patch with a star on his right shoulder, an American flag patch on his left arm, and a chest control panel adorned with a rocket icon and several colorful buttons. Hoses and tubing connect various parts of the suit, giving it an authentic but stylized appearance.",
+      "right_hand_anchor": {
+        "x": 0.28,
+        "y": 0.6
+      },
+      "left_hand_anchor": {
+        "x": 0.8,
+        "y": 0.5
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.08
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.7
+      }
+    },
+    {
+      "id": "wobbly_blue_jelly_creature",
+      "file": "characters/wobbly_blue_jelly_creature.png",
+      "description": "A simple, light blue, gelatinous creature with a soft, rounded, and somewhat amorphous shape. It has a single, dark blue, circular eye on its left side, giving it a friendly or curious expression. The creature appears to be slightly transparent or reflective, with subtle highlights that suggest a wet or slimy texture, consistent with a jelly or slime monster. Its overall design is clean and cartoonish, suitable for a kid's game.",
+      "right_hand_anchor": {
+        "x": 0.85,
+        "y": 0.6
+      },
+      "left_hand_anchor": {
+        "x": 0.15,
+        "y": 0.6
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.25
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "flying_honeybee",
+      "file": "characters/flying_honeybee.png",
+      "description": "This character depicts a friendly, stylized honeybee with a bright yellow head and thorax, and a distinctly striped abdomen featuring three black bands over a yellow base. It has two large, translucent white wings outstretched, indicating it is in flight. A small, dark grey appendage, possibly a leg or stinger, is visible near the bottom-left of its abdomen. The bee's body is rounded and smooth, giving it a soft, approachable appearance suitable for a children's game.",
+      "right_hand_anchor": {
+        "x": 0.45,
+        "y": 0.45
+      },
+      "left_hand_anchor": {
+        "x": 0.35,
+        "y": 0.6
+      },
+      "head_anchor": {
+        "x": 0.25,
+        "y": 0.4
+      },
+      "mount_anchor": {
+        "x": 0.45,
+        "y": 0.35
+      }
+    },
+    {
+      "id": "friendly_orange_robot_waving",
+      "file": "characters/friendly_orange_robot_waving.png",
+      "description": "A friendly, cartoon-style robot with a rectangular, white and orange body. Its face is a black screen with glowing blue, expressive eyes and a simple smiling mouth. It has two orange-tipped antennae on its head. The robot's arms are articulated, with an orange and white design, and it has five-fingered hands, one of which is waving (robot's right hand). Its lower body consists of two sturdy legs with tank tracks for feet, outlined in orange. The robot's chest features an orange panel with a 'GREET' button, a microphone icon, and a power button icon. The overall design is clean, playful, and approachable, with a slight gleam on its metallic surfaces.",
+      "right_hand_anchor": {
+        "x": 0.75,
+        "y": 0.33
+      },
+      "left_hand_anchor": {
+        "x": 0.26,
+        "y": 0.58
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.17
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.3
+      }
+    },
+    {
+      "id": "wise_blue_robed_wizard_with_staff_and_scroll",
+      "file": "characters/wise_blue_robed_wizard_with_staff_and_scroll.png",
+      "description": "A cheerful, elderly wizard character with a long, thick white beard and bushy eyebrows. He wears a majestic, deep blue robe adorned with shimmering golden stars and crescent moon patterns, bordered with intricate gold trim. His matching blue conical hat also features golden stars and a dangling crescent moon charm. He holds a gnarled wooden staff topped with a glowing, faceted blue crystal in his right hand, and a rolled-up parchment scroll in his left. He has a warm smile and appears friendly and wise.",
+      "right_hand_anchor": {
+        "x": 0.38,
+        "y": 0.48
+      },
+      "left_hand_anchor": {
+        "x": 0.68,
+        "y": 0.62
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.18
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.75
+      }
+    },
+    {
+      "id": "simple_grey_mouse_lying_down",
+      "file": "characters/simple_grey_mouse_lying_down.png",
+      "description": "A minimalist, flat-style grey mouse depicted in a prone or scurrying position, facing right. It has a smooth, rounded body with very simplified features: two small pink ears at the top left, a single dark grey circular eye, and a long, thin, curled pink tail extending from its rear. The mouse's body is a light grey, and it appears to be resting on a surface, giving it a calm or alert posture suitable for a kids' game character.",
+      "right_hand_anchor": {
+        "x": 0.25,
+        "y": 0.8
+      },
+      "left_hand_anchor": {
+        "x": 0.2,
+        "y": 0.8
+      },
+      "head_anchor": {
+        "x": 0.3,
+        "y": 0.35
+      },
+      "mount_anchor": {
+        "x": 0.55,
+        "y": 0.6
+      }
+    },
+    {
+      "id": "simple_lime_green_fish",
+      "file": "characters/simple_lime_green_fish.png",
+      "description": "This image depicts a stylized, minimalist fish rendered in a vibrant lime green hue. The fish has a plump, oval-shaped body with smooth, rounded edges, giving it a friendly and simplistic appearance ideal for a children's game. A small, darker green circle serves as its eye, positioned towards the front of its body. It features distinct, angular fins: a triangular dorsal fin on its back, a similar ventral fin on its underside, a small pectoral fin visible on its side near the middle of its body, and a broad, fanned caudal (tail) fin at the rear. The overall color palette is monochromatic with subtle variations in green, giving it a clean and cohesive look. The fish is oriented in a side profile, swimming towards the right.",
+      "right_hand_anchor": {
+        "x": 0.41,
+        "y": 0.64
+      },
+      "left_hand_anchor": {
+        "x": 0.38,
+        "y": 0.58
+      },
+      "head_anchor": {
+        "x": 0.23,
+        "y": 0.07
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "orange_spotted_ladybug",
+      "file": "characters/orange_spotted_ladybug.png",
+      "description": "A cartoonish orange ladybug creature, partially visible, featuring a prominent domed shell covered in five dark brown circular spots. The body is angled slightly, showing glimpses of a dark grey underbelly and leg-like structures peeking out from beneath the shell on the left and bottom right. The overall style is simplistic and friendly, suitable for a children's game.",
+      "right_hand_anchor": {
+        "x": 0.8,
+        "y": 0.8
+      },
+      "left_hand_anchor": {
+        "x": 0.2,
+        "y": 0.8
+      },
+      "head_anchor": {
+        "x": 0.3,
+        "y": 0.3
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "simple_green_blob_creature",
+      "file": "characters/simple_green_blob_creature.png",
+      "description": "A minimalist, elongated, lime-green blob creature with a smooth texture and several slightly darker green spots scattered across its body. It features a simple, expressionless face with two small, dark circular eyes and a short, horizontal line for a mouth, positioned near the top of its body. The creature's form is somewhat irregular and gently wavy along its sides, giving it a soft, organic appearance. It stands upright, slightly tapering towards the top and bottom.",
+      "right_hand_anchor": {
+        "x": 0.85,
+        "y": 0.5
+      },
+      "left_hand_anchor": {
+        "x": 0.15,
+        "y": 0.5
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.02
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.65
+      }
+    },
+    {
+      "id": "red_bearded_pirate_with_treasure_map",
+      "file": "characters/red_bearded_pirate_with_treasure_map.png",
+      "description": "A stout, cartoonish pirate character with a large red beard and matching handlebar mustache. He wears a blue tricorn hat adorned with a white skull and crossbones emblem and a prominent yellow feather. Below his hat, he has a red and white striped bandana. He's dressed in a red vest over a striped undershirt, a dark blue tattered coat with gold trim, brown pants with patches, and worn gray boots. His right arm ends in a gleaming silver hook, while his left hand holds an unfurled treasure map labeled \"TREASURE MAP\" and \"X ARKS THE SPOT\" with multiple islands depicted. The pirate has a slightly furrowed brow and a thoughtful or confused expression.",
+      "right_hand_anchor": {
+        "x": 0.35,
+        "y": 0.53
+      },
+      "left_hand_anchor": {
+        "x": 0.8,
+        "y": 0.45
+      },
+      "head_anchor": {
+        "x": 0.55,
+        "y": 0.07
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.7
+      }
+    },
+    {
+      "id": "purple_shell_yellow_snail",
+      "file": "characters/purple_shell_yellow_snail.png",
+      "description": "A charming and simple cartoon character resembling a snail, designed with a soft, rounded aesthetic perfect for a kids' game. Its body is an irregular, vibrant yellow blob shape, tapering slightly towards the front-left, where a subtle darker yellow dot hints at a facial feature or sensory organ. A large, prominent lavender-pink shell, depicted as a flat spiral, sits firmly on its back. The overall color palette is bright and inviting, with solid, uniform colors and a gently blurred texture that enhances its friendly appeal.",
+      "right_hand_anchor": {
+        "x": 0.1,
+        "y": 0.85
+      },
+      "left_hand_anchor": {
+        "x": 0.45,
+        "y": 0.8
+      },
+      "head_anchor": {
+        "x": 0.25,
+        "y": 0.7
+      },
+      "mount_anchor": {
+        "x": 0.65,
+        "y": 0.2
+      }
+    },
+    {
+      "id": "sad_white_ghost",
+      "file": "characters/sad_white_ghost.png",
+      "description": "A simple, cartoony ghost character rendered in a soft, light gray color with rounded edges. It has a classic sheet-like appearance with a wavy, irregular bottom edge, suggesting a floating or ethereal movement. Its face consists of two small, dark gray oval eyes and a downward-curving, slightly open mouth, conveying a mild sadness or concern. The overall style is minimalist, friendly, and non-threatening, suitable for a children's game, suggesting a gentle or shy personality rather than a scary one.",
+      "right_hand_anchor": {
+        "x": 0.75,
+        "y": 0.5
+      },
+      "left_hand_anchor": {
+        "x": 0.25,
+        "y": 0.5
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.15
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.9
+      }
+    },
+    {
+      "id": "stylized_vampire_bat",
+      "file": "characters/stylized_vampire_bat.png",
+      "description": "A simple and stylized dark grey bat character, presented with its wings spread upwards in a symmetrical fashion. The bat has a rounded body, which is slightly heart-shaped, and a distinct, single dark eye on its head. A sharp, white fang protrudes from its lower-left side, giving it a vampire-like appearance. The overall aesthetic is cartoonish and friendly, suitable for a kids' game.",
+      "right_hand_anchor": {
+        "x": 0.9,
+        "y": 0.15
+      },
+      "left_hand_anchor": {
+        "x": 0.1,
+        "y": 0.15
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.2
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.55
+      }
+    },
+    {
+      "id": "simple_green_frog",
+      "file": "characters/simple_green_frog.png",
+      "description": "This character is a highly simplified, cartoonish frog or toad creature rendered in a solid, bright lime green color. Its body is rounded and somewhat blob-like, with a slightly wider base, giving it a friendly and approachable appearance. It features two prominent, dark oval eyes positioned high on its head, with no other discernible facial features. Four short, stubby limbs extend from its body, with the two front limbs slightly raised, suggesting a resting or ready-to-move posture. The overall design is minimalist and lacks intricate details or textures, making it suitable for a kids' game with a clean, vector-art style.",
+      "right_hand_anchor": {
+        "x": 0.2,
+        "y": 0.75
+      },
+      "left_hand_anchor": {
+        "x": 0.8,
+        "y": 0.75
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.15
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.55
+      }
+    },
+    {
+      "id": "chubby_green_dragon_resting",
+      "file": "characters/chubby_green_dragon_resting.png",
+      "description": "A charming, plump green dragon is depicted in a peaceful, resting pose, curled up with its head nestled on its front paws. Its smooth, rounded body is a vibrant lime green, with darker green scales providing texture along its back and tail. Two small, golden-orange horns protrude from its head, and small, webbed wings are folded neatly on its back. One eye is partially open, revealing a warm, amber iris, while the other is closed, giving it a calm yet slightly whimsical expression. The dragon has a soft, friendly smile.",
+      "right_hand_anchor": {
+        "x": 0.28,
+        "y": 0.72
+      },
+      "left_hand_anchor": {
+        "x": 0.48,
+        "y": 0.73
+      },
+      "head_anchor": {
+        "x": 0.4,
+        "y": 0.12
+      },
+      "mount_anchor": {
+        "x": 0.62,
+        "y": 0.42
+      }
+    },
+    {
+      "id": "simple_gold_trunk_monster",
+      "file": "characters/simple_gold_trunk_monster.png",
+      "description": "This character is a minimalistic, golden-brown creature with a large, oval-shaped body. Its design is very simple, almost amorphous, lacking distinct eyes or mouth. A prominent, short, and gently curved dark brown trunk extends from the lower-left side of its body, reminiscent of an elephant's trunk. The creature stands on four thin, dark brown stick-like legs, two visible at the front and two at the back, giving it a somewhat spindly appearance. The overall art style is flat and cartoonish, suitable for a children's game, with a warm color palette dominated by gold and dark brown.",
+      "right_hand_anchor": {
+        "x": 0.75,
+        "y": 0.55
+      },
+      "left_hand_anchor": {
+        "x": 0.25,
+        "y": 0.55
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.3
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.45
+      }
+    },
+    {
+      "id": "mossy_stone_troll",
+      "file": "characters/mossy_stone_troll.png",
+      "description": "This is a large, muscular, grey troll-like creature with textured, stone-like skin. Patches of vibrant green moss grow on its shoulders, back, and legs, indicating an earthy origin. It has a gruff, angry expression with striking yellow-orange eyes, a large pinkish nose, and two prominent off-white tusks protruding from its lower jaw. Its short, spiky grey hair and large, pointed ears are visible. The troll's thick, powerful arms are crossed over its chest, emphasizing its formidable physique. It wears a skirt made of ragged green and brown leaves, secured by a simple brown rope tied at the front. The creature is depicted mid-stride, with a small puff of dust near its raised right foot, conveying a sense of movement and weight.",
+      "right_hand_anchor": {
+        "x": 0.27,
+        "y": 0.47
+      },
+      "left_hand_anchor": {
+        "x": 0.68,
+        "y": 0.42
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.04
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.68
+      }
+    },
+    {
+      "id": "unwell_pink_fish",
+      "file": "characters/unwell_pink_fish.png",
+      "description": "A stylized, simple 2D cartoon fish primarily colored in varying shades of pink. Its body is rounded and full, with a slightly darker pink cross mark over its eye area, suggesting it is unwell or deceased. It features a broad, fanned tail fin and two smaller side fins, all in lighter shades of pink. There's also a rectangular light pink patch on its mid-body. The overall design is soft and child-friendly, despite the implied condition of the fish.",
+      "right_hand_anchor": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "left_hand_anchor": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "head_anchor": {
+        "x": 0.2,
+        "y": 0.22
+      },
+      "mount_anchor": {
+        "x": 0.45,
+        "y": 0.4
+      }
+    },
+    {
+      "id": "cute_teal_alien_creature_walking",
+      "file": "characters/cute_teal_alien_creature_walking.png",
+      "description": "A whimsical, light teal alien-like creature with a smooth, rounded body and head. It features two large, dark, oval-shaped eyes and a small, slightly open oval mouth, giving it an expression of mild surprise or curiosity. The creature has two stubby arms, one raised in a waving or walking motion, and two stubby legs, depicted mid-stride. A prominent, thick white outline encircles the top of its head and shoulders, resembling a futuristic helmet or a soft glowing aura. Its lower body is adorned with faint, darker teal spots, adding a subtle texture. The overall design is simple, friendly, and cartoony, ideal for a children's game character.",
+      "right_hand_anchor": {
+        "x": 0.18,
+        "y": 0.68
+      },
+      "left_hand_anchor": {
+        "x": 0.82,
+        "y": 0.68
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.08
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.75
+      }
+    },
+    {
+      "id": "three_eyed_blue_alien_walking",
+      "file": "characters/three_eyed_blue_alien_walking.png",
+      "description": "The character is a light blue, friendly-looking alien with an elongated, rounded head. It features three small, dark blue, circular eyes arranged horizontally across its face and a simple, straight-line mouth below them. A distinct, thick white collar or ring encircles its neck, and a similar, thinner white line outlines its head, suggesting a transparent helmet or part of an astronaut suit. Its body is stout and blob-like, with two short, rounded arms and two slightly longer, rounded legs that are posed as if the alien is in mid-stride. The alien's skin has subtle, lighter blue circular patterns, giving it a slightly textured appearance.",
+      "right_hand_anchor": {
+        "x": 0.22,
+        "y": 0.63
+      },
+      "left_hand_anchor": {
+        "x": 0.78,
+        "y": 0.63
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.08
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.72
+      }
+    },
+    {
+      "id": "friendly_mint_blob_character",
+      "file": "characters/friendly_mint_blob_character.png",
+      "description": "A friendly, stylized blob-like creature with a smooth, mint-green body and a cheerful expression. It features two small, dark, oval eyes and a gentle, curved smile. Its head smoothly transitions into its oblong torso. Two tiny, rounded nubs extend from its sides, serving as arms. Below its main body, two more prominent, rounded leg-like appendages are posed as if it's mid-stride, with one leg forward and the other back, conveying movement. The creature also has several subtle, darker green spots on its lower body, adding a touch of texture. It is presented within a clean white circular border.",
+      "right_hand_anchor": {
+        "x": 0.3,
+        "y": 0.55
+      },
+      "left_hand_anchor": {
+        "x": 0.7,
+        "y": 0.55
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.3
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.7
+      }
+    },
+    {
+      "id": "winged_golden_retriever_puppy",
+      "file": "characters/winged_golden_retriever_puppy.png",
+      "description": "A cute, happy, golden retriever puppy cartoon character, depicted with fluffy, golden-brown fur and large, expressive brown eyes. It has small, angelic white wings on its back and is wearing a blue collar with a gold star charm and a white bone charm. The puppy is smiling with its pink tongue slightly out, and small white sparkles surround its body, giving it a magical or ethereal aura. The art style is clean and vibrant, suitable for a kids' game.",
+      "right_hand_anchor": {
+        "x": 0.35,
+        "y": 0.88
+      },
+      "left_hand_anchor": {
+        "x": 0.65,
+        "y": 0.88
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.12
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.65
+      }
+    },
+    {
+      "id": "friendly_forest_fairy_holding_acorn",
+      "file": "characters/friendly_forest_fairy_holding_acorn.png",
+      "description": "A charming and friendly forest fairy, depicted with a bright smile and large, iridescent rainbow-colored wings that shimmer with hues of purple, blue, green, and orange. The fairy has short, messy brown hair adorned with a green vine headband and small pink and purple flowers, with tiny light sparkles emanating from its head. Its pointed, light-skinned ears peek out from beneath the hair. The character wears a whimsical outfit made of various shades of green leaves, featuring a tunic-like top and puffy shorts, with small brown boots tied with green vines around the ankles. It holds a sparkling, golden-brown acorn in both hands, which emits a gentle glow and tiny star-like particles.",
+      "right_hand_anchor": {
+        "x": 0.55,
+        "y": 0.5
+      },
+      "left_hand_anchor": {
+        "x": 0.43,
+        "y": 0.5
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.1
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.72
+      }
+    },
+    {
+      "id": "simple_smiling_yellow_figure",
+      "file": "characters/simple_smiling_yellow_figure.png",
+      "description": "This is a minimalist, 2D character rendered in a bright, solid yellow color with a clean white outline. The design is highly stylized, featuring a large, smooth, rounded head that constitutes a significant portion of its overall mass. The character's face displays a serene expression with closed, upturned eyes, suggesting a gentle smile or contentment. It lacks a visible nose, mouth, or ears, maintaining a very simple aesthetic. The body is small and squat, tapering slightly from the head, with two short, rounded leg-like protrusions at the bottom. The overall impression is friendly, calm, and approachable, well-suited for a young audience.",
+      "right_hand_anchor": {
+        "x": 0.7,
+        "y": 0.6
+      },
+      "left_hand_anchor": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "head_anchor": {
+        "x": 0.5,
+        "y": 0.08
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "cartoon_boy_hiker_explorer_with_backpack_and_stick",
+      "file": "characters/cartoon_boy_hiker_explorer_with_backpack_and_stick.png",
+      "description": "A cheerful cartoon boy with light brown hair and freckles is depicted as an eager explorer or hiker. He wears a cream-colored sun hat with a blue band, a blue t-shirt, a yellow multi-pocketed vest, brown cargo shorts, white socks with orange stripes, and brown hiking boots with red laces. He carries a large olive-green backpack with an orange and green rolled sleeping mat attached to the top, and a gray lantern hanging from the bottom left. In his right hand, he holds a sturdy brown walking stick from which a compass dangles. He has a wide, friendly smile and bright, curious eyes, embodying an adventurous spirit.",
+      "right_hand_anchor": {
+        "x": 0.22,
+        "y": 0.38
+      },
+      "left_hand_anchor": {
+        "x": 0.78,
+        "y": 0.4
+      },
+      "head_anchor": {
+        "x": 0.48,
+        "y": 0.0375
+      },
+      "mount_anchor": {
+        "x": 0.5,
+        "y": 0.6
+      }
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "blue_spaceship_with_yellow_wings",
+      "file": "vehicles/blue_spaceship_with_yellow_wings.png",
+      "description": "A sleek, cartoon-style spaceship designed for a kids' game, viewed from a slightly elevated front-top angle. The main body is predominantly light blue with a white trim along its edges, suggesting a smooth, modern design. Two broad, swept-back wings extend from the sides, each featuring a bright yellow rectangular panel, possibly indicating engines or weapon emplacements. The cockpit is a dark grey, rectangular window situated centrally on the upper part of the main body, large enough for a character to sit inside. Two light blue cylindrical thrusters or stabilizers are positioned at the very rear of the wings, pointing upwards. The overall impression is clean, friendly, and aerodynamic, suitable for space exploration or light combat in a children's game.",
+      "seat_anchor": {
+        "x": 0.5,
+        "y": 0.35
+      }
+    },
+    {
+      "id": "blue_touring_motorcycle",
+      "file": "vehicles/blue_touring_motorcycle.png",
+      "description": "This image features a sleek, modern touring motorcycle in a vibrant metallic blue with contrasting black accents. It is shown from a side profile, slightly angled. Key features include a large, clear windscreen, a prominent front fairing, comfortable-looking dual seats for a rider and passenger, integrated side panniers, and a rear top case with a taillight and an antenna. The motorcycle appears to be in pristine condition, emphasizing its polished design and functional touring capabilities.",
+      "seat_anchor": {
+        "x": 0.5,
+        "y": 0.52
+      }
+    },
+    {
+      "id": "compact_sci_fi_ship",
+      "file": "vehicles/compact_sci_fi_ship.png",
+      "description": "This vehicle is a compact, stylized sci-fi ship with a predominantly brown-orange body and a sleek, grey-white central cockpit area. The cockpit features a dark purple, visor-like canopy. The ship has a broad, symmetrical, wing-like structure extending from the central body, suggesting it's designed for aerial or space travel. The design is simple, clean, and modern, making it suitable for a kids' game.",
+      "seat_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "sleek_delta_wing_shuttle",
+      "file": "vehicles/sleek_delta_wing_shuttle.png",
+      "description": "A sleek, futuristic shuttle featuring a prominent delta-wing design. The main hull is a light gray, forming a hexagonal shape at the front, tapering towards the rear. Vibrant orange-red wings extend sharply from the sides, highlighted with white tips and subtle yellow accents along their lower edges. A dark, triangular cockpit canopy is centrally positioned, suggesting a single pilot. The overall aesthetic is clean and modern, implying speed and agility for either space or atmospheric travel in a child-friendly game.",
+      "seat_anchor": {
+        "x": 0.5,
+        "y": 0.35
+      }
+    },
+    {
+      "id": "stylized_purple_spaceship",
+      "file": "vehicles/stylized_purple_spaceship.png",
+      "description": "The vehicle is a sleek, stylized spaceship rendered in a flat, vector-art style, suitable for a 2D kids' game. Its primary colors are a deep, muted purple for the main body and a contrasting light grey for the central structure and accents. The design features broad, swept-back wing-like extensions on either side, giving it a fast and agile appearance. A central canopy, highlighted in light grey with a dark trapezoidal viewport, suggests a pilot's cockpit. The vehicle appears to be in pristine condition, with clean lines and a modern, compact design.",
+      "seat_anchor": {
+        "x": 0.5,
+        "y": 0.55
+      }
+    },
+    {
+      "id": "grey_and_blue_sport_motorcycle",
+      "file": "vehicles/grey_and_blue_sport_motorcycle.png",
+      "description": "A modern sport motorcycle rendered in a vector-art style, predominantly grey with bold dark blue stripes on the fuel tank and side fairings. It features a transparent windshield, black handlebars, and a sleek, aerodynamic design. The motorcycle has silver exhaust piping on the left side and black tires with silver spoked rims. The overall condition appears new and clean.",
+      "seat_anchor": {
+        "x": 0.51,
+        "y": 0.41
+      }
+    },
+    {
+      "id": "green_futuristic_drone",
+      "file": "vehicles/green_futuristic_drone.png",
+      "description": "The image depicts a highly stylized, futuristic flying drone or compact spacecraft. Its primary color is a muted olive green, complemented by sharp white accents that delineate its central body and provide a sense of aerodynamic flow. The design is angular and geometric, with broad, swept-back wing-like structures extending from the central mass. A dark purple, trapezoidal 'visor' or cockpit window is prominently featured in the upper central section, giving the craft a somewhat masked or helmet-like appearance. The overall shape is compact and streamlined, suggesting speed and maneuverability. The surface appears smooth with flat shading, indicating a clean, modern aesthetic.",
+      "seat_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "green_futuristic_spaceship",
+      "file": "vehicles/green_futuristic_spaceship.png",
+      "description": "The vehicle is a sleek, stylized futuristic spaceship, primarily colored a vibrant lime green. It features a broad, angular design with translucent, light blue-tinted wings extending from a central body. The main body is outlined in white, giving it a clean, modern aesthetic. A dark grey, trapezoidal cockpit canopy is prominently positioned at the top-center, suggesting a single pilot seat. Two small, horizontal golden bars run across the lower section of the wings, potentially indicating propulsion units or stabilizers. The overall impression is a fast, agile craft in excellent condition, designed for speed and maneuverability.",
+      "seat_anchor": {
+        "x": 0.5,
+        "y": 0.28
+      }
+    },
+    {
+      "id": "red_and_black_cruiser_motorcycle",
+      "file": "vehicles/red_and_black_cruiser_motorcycle.png",
+      "description": "A classic cruiser-style motorcycle is depicted in a side view. The bike features a sleek black body with prominent glossy red accents on the fuel tank and both front and rear fenders. It boasts polished chrome exhaust pipes running along the bottom, a detailed silver engine block with fins, and bright silver handlebars and front suspension. The seat is black, with a small backrest for a passenger. The tires have simple spokes, and a small amber turn signal is visible near the front. The overall design is clean and robust, with a stylized, almost illustrative finish.",
+      "seat_anchor": {
+        "x": 0.52,
+        "y": 0.44
+      }
+    },
+    {
+      "id": "red_and_white_dirt_bike_450x",
+      "file": "vehicles/red_and_white_dirt_bike_450x.png",
+      "description": "A vibrant red and white dirt bike, depicted from a side profile. The bike features a prominent red seat and top fairings, contrasted with white side panels and rear fender. The engine block is dark grey and black with metallic accents. Large knobby tires are visible on both wheels, which have silver spokes and hubs. A '450X' decal is present on the front-side fairing, indicating its model. Red stripes adorn the front suspension guard, rear swingarm, and the very tip of the rear fender, adding a sporty aesthetic. The overall design is sleek and modern.",
+      "seat_anchor": {
+        "x": 0.46,
+        "y": 0.42
+      }
+    },
+    {
+      "id": "red_and_black_electric_motorcycle",
+      "file": "vehicles/red_and_black_electric_motorcycle.png",
+      "description": "A sleek, modern electric motorcycle presented in a striking red and black color scheme. The bike features a predominantly black frame and bodywork, accented with angular, vibrant red panels on the 'tank' area and the rear fender. The design includes dark gray tires with red rims and multi-spoke wheels, giving it a sporty and contemporary look. Notable features are the absence of a traditional exhaust, characteristic of electric vehicles, and a minimalist front fairing. The overall appearance is clean, sharp, and slightly futuristic.",
+      "seat_anchor": {
+        "x": 0.475,
+        "y": 0.39
+      }
+    },
+    {
+      "id": "red_offroad_pickup_truck",
+      "file": "vehicles/red_offroad_pickup_truck.png",
+      "description": "A robust, four-door red pickup truck, heavily modified for off-road adventures. It features large, dark grey off-road tires with prominent red beadlock-style wheels. The truck has sturdy silver running boards beneath the doors and a rugged bed rack in the rear, holding a large spare tire. The front design includes a distinctive hood scoop and flared fenders, complementing its aggressive, utilitarian aesthetic.",
+      "seat_anchor": {
+        "x": 0.48,
+        "y": 0.45
+      }
+    },
+    {
+      "id": "modern_sports_motorcycle_red_and_white",
+      "file": "vehicles/modern_sports_motorcycle_red_and_white.png",
+      "description": "A modern sports motorcycle rendered in a clean, vector art style with a white background. The bike features a sleek, aggressive design, primarily in dark grey and black for its mechanical components and frame. It has a prominent white fuel tank, a black seat, and striking red fairings on the front and rear, giving it a sporty look. Dual silver exhaust pipes are visible on the left side, extending towards the rear wheel. The front of the motorcycle includes angular white headlight casings under a black windscreen, and a red front fender. The wheels are dark grey with silver rims and distinct triangular spoke patterns. The overall impression is that of a contemporary, high-performance street bike.",
+      "seat_anchor": {
+        "x": 0.45,
+        "y": 0.48
+      }
+    },
+    {
+      "id": "yellow_school_bus_side_view",
+      "file": "vehicles/yellow_school_bus_side_view.png",
+      "description": "A bright yellow school bus, depicted in a clean 2D vector art style from a side profile. The bus features multiple black-framed rectangular windows along its length and two prominent black horizontal stripes on its side. It has a large driver's door at the front, a visible rearview mirror, and a stop sign arm folded at the front. Two large black wheels with silver hubcaps are positioned at the front and back under the bus body. The overall condition appears new and well-maintained.",
+      "seat_anchor": {
+        "x": 0.82,
+        "y": 0.6
+      }
+    },
+    {
+      "id": "red_white_blue_sport_motorcycle",
+      "file": "vehicles/red_white_blue_sport_motorcycle.png",
+      "description": "The image features a sleek, modern sport motorcycle presented in a clean, vector-art style. The color scheme is predominantly red, white, and black, accented with bright blue details. The front fairing is white with prominent red and blue stripes, extending to a dark windshield area. The bodywork flows dynamically, blending red and white panels with dark gray and black mechanical components visible beneath, including engine details and frame elements. The motorcycle has a single exhaust system on the left side, finished in a metallic silver. It features black wheels with silver spokes, and a black seat positioned towards the rear. Subtle shading gives the bike a sense of depth and form, emphasizing its aerodynamic design and powerful aesthetic.",
+      "seat_anchor": {
+        "x": 0.55,
+        "y": 0.4
+      }
+    },
+    {
+      "id": "yellow_adventure_motorcycle",
+      "file": "vehicles/yellow_adventure_motorcycle.png",
+      "description": "A modern adventure-style motorcycle is depicted, featuring a bright yellow body with dark grey and light grey accents. It boasts a prominent tall windscreen and robust visible engine components, suggesting a powerful design. The tires are suitable for both on-road and off-road conditions, with multi-spoked wheels. The overall aesthetic is sleek and angular, designed for dynamic riding experiences.",
+      "seat_anchor": {
+        "x": 0.55,
+        "y": 0.52
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "grey_sci_fi_helmet",
+      "file": "items/grey_sci_fi_helmet.png",
+      "description": "A stylized greyish-blue helmet with a slightly angular, futuristic design. The main body of the helmet is a muted grey-blue, tapering towards a narrower top. Below a prominent horizontal light grey bar, there's a dark purple-grey visor area that appears to be segmented into two eye slits or vents. The overall shape suggests either a modern interpretation of a knight's helmet or protective headgear from a science fiction setting, possibly made of metal or composite material, giving it a sturdy, protective appearance.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.92
+      }
+    },
+    {
+      "id": "blue_and_white_capsule_pill",
+      "file": "items/blue_and_white_capsule_pill.png",
+      "description": "A sleek, elongated capsule pill, half translucent white and half vibrant blue. The capsule has smooth, glossy surfaces, suggesting a hard plastic or gelatinous shell. The blue section appears filled with a solid or liquid substance, while the white section is empty or contains a transparent material. It is designed to be easily picked up and held, perhaps indicating a restorative or medicinal property for the player.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "blue_faceted_diamond_gemstone",
+      "file": "items/blue_faceted_diamond_gemstone.png",
+      "description": "A stylized blue diamond or gemstone, rendered with a glossy, faceted appearance. It features prominent white highlights on its upper right facets, indicating a strong light source. The gem has a polygonal shape, reflecting light in various shades of light to medium blue, giving it a sparkling, precious look. It is designed to appear as a valuable collectible.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.6
+      }
+    },
+    {
+      "id": "blue_skeleton_key",
+      "file": "items/blue_skeleton_key.png",
+      "description": "This is a vibrantly colored blue skeleton key, appearing to be crafted from a smooth, polished material, possibly metal or plastic, with subtle gradients that give it a sense of depth and three-dimensionality. It features a classic design with a prominent circular bow on the left, a slender, straight shank extending to the right, and a simple, rectangular ward at its tip. The key looks sturdy and well-formed, suggesting it's capable of unlocking a significant door or mechanism.",
+      "handle_anchor": {
+        "x": 0.25,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "tilted_blue_potion_bottle",
+      "file": "items/tilted_blue_potion_bottle.png",
+      "description": "A small, rectangular, clear glass bottle is tilted to the right, containing a vibrant blue liquid. The liquid's surface shows a bright white highlight indicating a light source, along with several small, spherical bubbles. The bottle's body has a subtle blue tint, and it features a golden, threaded neck, implying it is designed for a screw-on cap. The art style is clean and slightly glossy, typical for a fantasy or adventure game item.",
+      "handle_anchor": {
+        "x": 0.6,
+        "y": 0.65
+      }
+    },
+    {
+      "id": "plain_hot_dog_bun",
+      "file": "items/plain_hot_dog_bun.png",
+      "description": "A flat-shaded, elongated bread bun with smoothly rounded ends. The main body of the bun is a warm, light brown, suggesting it is freshly baked. Three small, darker brown circular specks are visible on the top surface, resembling sesame seeds. Below the main brown body, there is a visible lighter, cream-colored segment, indicating that the bun has been sliced horizontally, typical for a hot dog bun. The overall aesthetic is clean and simple, implying a soft texture suitable for eating. It appears to be a standard, edible food item with no extraordinary magical or physical properties.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.4
+      }
+    },
+    {
+      "id": "simple_bronze_coin",
+      "file": "items/simple_bronze_coin.png",
+      "description": "A small, round coin depicted in a simple, flat 2D style. It is colored in a muted bronze hue, suggesting a common currency or collectible. The coin features a subtle inner raised circular detail, giving it a slight sense of depth. Its smooth texture and clean edges make it suitable as a basic item for collection within the game.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "small_brown_mushroom",
+      "file": "items/small_brown_mushroom.png",
+      "description": "A small, simple mushroom with a rounded, domed brown cap and a slender, cylindrical off-white stem. The cap has a smooth, uniform earthy brown color, while the stem appears firm and pale, providing a clear contrast. The mushroom has a clean, stylized appearance, suitable for a kids' game as a collectible or environmental prop.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "dollop_of_whipped_cream",
+      "file": "items/dollop_of_whipped_cream.png",
+      "description": "A single, isolated dollop of light beige, creamy substance, shaped into a soft, swirling peak. The texture appears smooth and airy, with subtle shading that gives it a three-dimensional, fluffy appearance, consistent with whipped cream or soft-serve ice cream. It is presented against a plain background, highlighting its organic, edible form.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.9
+      }
+    },
+    {
+      "id": "crossed_hammer_and_wrench",
+      "file": "items/crossed_hammer_and_wrench.png",
+      "description": "A stylized illustration featuring two crossed hand tools: a claw hammer and an adjustable wrench. The hammer, with its silver metallic head pointing towards the upper right and a textured wooden handle extending downwards towards the lower left, is positioned behind the wrench. The adjustable wrench, also with silver metallic parts and its jaws open towards the upper left, has a textured wooden handle extending downwards towards the lower right. The tools are rendered with a clean, slightly shiny finish on the metal and visible wood grain on the handles, suggesting durability and a friendly, game-ready aesthetic.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.75
+      }
+    },
+    {
+      "id": "magic_crystal_staff",
+      "file": "items/magic_crystal_staff.png",
+      "description": "A stylized magical staff featuring a sharp, light blue crystal tip held by four golden prongs. Below the crystal is an ornate golden hilt with a prominent, glowing blue gem embedded in its center. A vibrant red ribbon is wrapped around the top portion of the dark brown wooden handle, which gradually widens before tapering slightly towards a metallic silver cap at its base. The staff appears to be crafted for mystical combat or spellcasting, possibly associated with ice or water magic.",
+      "handle_anchor": {
+        "x": 0.73,
+        "y": 0.65
+      }
+    },
+    {
+      "id": "ornate_battle_axe",
+      "file": "items/ornate_battle_axe.png",
+      "description": "A stylized fantasy battle axe featuring a robust wooden handle with a braided grip at its base. The blade is crafted from dark silver-grey metal, adorned with sharp spikes along its top edge and a polished cutting edge. Gold metallic details embellish the axe head, including an ornate 'G' symbol on the blade's flat side and a prominent blue, glowing gemstone set into the head just above the handle. The overall design suggests a powerful and possibly magical weapon.",
+      "handle_anchor": {
+        "x": 0.68,
+        "y": 0.7
+      }
+    },
+    {
+      "id": "stylized_double_bladed_axe",
+      "file": "items/stylized_double_bladed_axe.png",
+      "description": "A stylized double-bladed axe with a sturdy wooden handle, featuring visible grain and a wrapped light brown leather grip at the bottom. The axe head is composed of dark gray metal, embellished with golden, angular Celtic knot-like designs on each blade. Both blades are sharp, silver-colored, and have small, sharp spikes along their non-cutting edges. A bright, glowing light blue gem is set centrally into the dark gray metal head, encircled by a golden band, suggesting magical properties. The overall design is chunky and robust, suitable for a fantasy setting.",
+      "handle_anchor": {
+        "x": 0.75,
+        "y": 0.8
+      }
+    },
+    {
+      "id": "wooden_bow_with_blue_gems_and_arrow",
+      "file": "items/wooden_bow_with_blue_gems_and_arrow.png",
+      "description": "A stylized wooden bow and arrow, depicted in a game-art style. The bow's limbs are crafted from warm, golden-brown wood with visible grain texture, tapering towards the ends. Each limb is reinforced by a bright golden cuff, prominently featuring a round, light blue gemstone that suggests an enchanted quality. The bowstring is a thin, silvery-grey strand. An arrow, with a simple light brown shaft, is nocked and ready; it has dark red fletching and a sharp, metallic grey arrowhead with subtle chips, adding a touch of wear or realism to its magical aesthetic. The item is dynamic and appears ready for action.",
+      "handle_anchor": {
+        "x": 0.58,
+        "y": 0.68
+      }
+    },
+    {
+      "id": "golden_key",
+      "file": "items/golden_key.png",
+      "description": "A bright, shiny golden key with a classic design. It features a circular bow on the left, a long straight shaft, and a rectangular, notched blade on the right. The key has a smooth, metallic texture with subtle gradients suggesting its lustrous surface, making it appear valuable and potentially magical. It is oriented horizontally.",
+      "handle_anchor": {
+        "x": 0.2,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "stylized_golden_grey_shield",
+      "file": "items/stylized_golden_grey_shield.png",
+      "description": "A stylized, sturdy-looking shield with a prominent golden outer frame featuring a subtle Greek key (meander) pattern along its upper edge. The main body of the shield is a smooth, slightly reflective grey metal, subtly divided by a vertical line. In the center, a spherical golden boss protrudes, surrounded by a thin, darker ring. The shield has a slightly worn, hand-painted texture with visible brushstrokes, giving it a warm, artistic feel. Its design suggests a defensive item suitable for a fantasy or adventure setting.",
+      "handle_anchor": {
+        "x": 0.52,
+        "y": 0.51
+      }
+    },
+    {
+      "id": "golden_coin_with_hash_symbol",
+      "file": "items/golden_coin_with_hash_symbol.png",
+      "description": "A shiny, golden coin rendered in a slightly tilted, isometric perspective, giving it a three-dimensional appearance. The coin features a distinct symbol on its face, resembling a stylized hash or an 'H' character with two vertical bars crossed by two horizontal bars. The edges of the coin show a metallic sheen, and subtle shadows enhance its depth, suggesting a clean and new collectible item.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.55
+      }
+    },
+    {
+      "id": "shiny_yellow_gem",
+      "file": "items/shiny_yellow_gem.png",
+      "description": "The item is a stylized, hexagonal gem or award, rendered in vibrant golden yellow tones. It features a bright, glowing outline that accentuates its multifaceted design. The top half is uniformly bright yellow, while the bottom half shows distinct, darker triangular facets, suggesting depth and a light source from above. The overall impression is one of value and radiance, like a precious collectible gem or a symbol of achievement. It appears smooth and polished with a soft, gradient fill.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.8
+      }
+    },
+    {
+      "id": "faceted_green_gem",
+      "file": "items/faceted_green_gem.png",
+      "description": "A vibrant, multi-faceted green gemstone with sharp, distinct edges and clear reflections, giving it a polished and valuable appearance. It displays various shades of green, from deep emerald to lighter, almost translucent sections where light catches its surfaces, indicating a high degree of clarity and brilliance. The gem is cut with multiple geometric faces that refract light, creating bright highlights on its upper right facets. It looks like a precious jewel or a magical artifact.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.65
+      }
+    },
+    {
+      "id": "light_green_faceted_gem",
+      "file": "items/light_green_faceted_gem.png",
+      "description": "This item is a vibrant, translucent light green gem, shaped like a multifaceted hexagon. It has a smooth, polished appearance with distinct triangular facets on its lower half, creating a sense of depth and a slight internal glow. The overall impression is one of a precious and magical crystal, likely a valuable collectible or currency.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "green_key",
+      "file": "items/green_key.png",
+      "description": "This is a clean, stylized key rendered in a vibrant lime green color. It features a classic skeleton key design with a perfectly circular bow on the left, a straight, smooth shank, and a simple, rectangular bit on the right. The surface appears uniform and slightly glossy, suggesting a material like polished metal or hard plastic. Its minimalist design and bright color make it appear friendly and inviting, suitable for a children's game.",
+      "handle_anchor": {
+        "x": 0.2,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "green_potion_bottle",
+      "file": "items/green_potion_bottle.png",
+      "description": "A small, clear glass potion bottle is depicted at a slight tilt, with its threaded golden neck pointing towards the upper left. The bottle contains a vibrant, luminous green liquid, which appears to be effervescent due to several small bubbles visible within it. A prominent highlight on the surface of the liquid and the bottle's glass suggests a strong light source, giving it a magical or potent appearance. The bottle has a sturdy, slightly bulbous base and a narrow neck.",
+      "handle_anchor": {
+        "x": 0.55,
+        "y": 0.65
+      }
+    },
+    {
+      "id": "stylized_grey_chevron_bag",
+      "file": "items/stylized_grey_chevron_bag.png",
+      "description": "A stylized, simple grey handbag or purse featuring a distinct chevron pattern across its main body. The bag has a rounded trapezoidal shape, wider at the bottom and tapering slightly towards the top, with softly rounded corners. A small, circular loop is present at the very top center, indicating a handle or attachment point. The design is clean and minimalistic, suggesting it could be a fashion accessory or a container for small items. It has a flat, matte texture.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.03
+      }
+    },
+    {
+      "id": "red_health_heart_item",
+      "file": "items/red_health_heart_item.png",
+      "description": "A glossy, vibrant red heart encapsulated within a thick, shiny silver metallic border. The heart itself has prominent white highlights on its upper-left and upper-right lobes, suggesting a smooth, reflective, and possibly gem-like surface. The silver border is broad and features a slight bevel, giving it a three-dimensional, sturdy appearance, with subtle shading along its edges indicating depth. It appears to be a stylized health or life-up item, designed for visual clarity and impact.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "take_out_coffee_cup_with_grey_lid",
+      "file": "items/take_out_coffee_cup_with_grey_lid.png",
+      "description": "This is a stylized take-out beverage cup, featuring a dark grey flat lid that covers a warm brown, tapered body. A light grey band encircles the middle of the cup, suggesting a sleeve or a decorative element. The overall design is simple and clean, with smooth lines and flat colors, making it suitable for a modern or urban setting in a kids' game. The cup appears full or partially full, given the sealed lid.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.775
+      }
+    },
+    {
+      "id": "stylized_brown_leather_satchel",
+      "file": "items/stylized_brown_leather_satchel.png",
+      "description": "A stylized, cartoonish brown leather satchel or small backpack, rendered with a painterly texture. The main compartment is covered by a flap secured by a single circular, light grey metal snap or button near the top center. Two thinner, decorative vertical straps with small light grey metal buckles run down the front, adding to its rugged appearance. A small, open pouch is visible on the lower left side. The leather has warm, earthy brown tones with subtle highlights and shading that give it depth and a slightly worn, well-used look. The overall design suggests a sturdy and practical item suitable for carrying small essentials in an adventure or fantasy setting.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.2
+      }
+    },
+    {
+      "id": "fantasy_glowing_hammer",
+      "file": "items/fantasy_glowing_hammer.png",
+      "description": "This is a stylized fantasy war hammer featuring a robust grey metallic head with a pronounced, spiked end and a sharp, pointed top. The head is decorated with bright orange-yellow rectangular accents and a central, luminous blue orb that appears to glow. The handle is crafted from dark brown wood, showing distinct grain patterns, and is reinforced with polished silver-grey metal bands. Its design suggests a powerful, possibly magical, weapon suitable for close combat in a heroic fantasy setting.",
+      "handle_anchor": {
+        "x": 0.59,
+        "y": 0.63
+      }
+    },
+    {
+      "id": "grey_knight_helmet",
+      "file": "items/grey_knight_helmet.png",
+      "description": "A detailed illustration of a metallic grey knight's helmet, rendered in a hand-painted style. The helmet features a rounded, domed top with prominent metal bands running front-to-back and side-to-side, secured with rivets. A horizontal band with small rivets runs across the brow, above eye-slits that are not fully visible due to the angle. Flared cheek guards extend downwards, partially obscuring the dark interior opening where the wearer's face would be. The metal appears smooth with subtle reflections, giving it a sturdy, protective appearance typical of medieval or fantasy armor.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.7
+      }
+    },
+    {
+      "id": "riveted_metal_fantasy_shield",
+      "file": "items/riveted_metal_fantasy_shield.png",
+      "description": "A stylized, slightly angled shield crafted from several distinct plates of dark grey metal, giving it a sturdy, segmented appearance. The plates are secured with prominent circular rivets, four along the top edge and one larger central boss rivet. The shield features a painterly texture with subtle variations in color, including muted purples and blues in the shadowed areas, suggesting depth and a hand-forged quality. Its overall shape is a classic heater shield silhouette with softened edges, conveying a robust fantasy aesthetic suitable for a medieval or adventure setting.",
+      "handle_anchor": {
+        "x": 0.45,
+        "y": 0.55
+      }
+    },
+    {
+      "id": "grey_microphone",
+      "file": "items/grey_microphone.png",
+      "description": "A simple, stylized grey microphone. It features a rectangular upper body with a slight taper at the top, a main central section with a grid of small dots resembling a speaker or keypad, and a narrower, rounded base. The overall design is monochromatic, giving it a clean and minimalistic appearance. The shading suggests a light source from the top-left, adding subtle depth to its flat design.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.78
+      }
+    },
+    {
+      "id": "ripe_orange_fruit",
+      "file": "items/ripe_orange_fruit.png",
+      "description": "A single, round, vibrant orange fruit, reminiscent of a peach or an orange, with a smooth, unblemished surface. A short, straight green stem extends upwards from its top, crowned with a single, small, bright green leaf angled slightly to the right. The fruit appears ripe and wholesome, suggesting a sweet and juicy interior, perfect as a collectible or interactive prop in a children's game.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.2
+      }
+    },
+    {
+      "id": "orange_faceted_gem",
+      "file": "items/orange_faceted_gem.png",
+      "description": "A vibrant orange, faceted gem, stylized with a polygonal cut. It features a broad hexagonal top section smoothly transitioning to a pointed bottom, giving it a classic gemstone appearance. The color graduates from a lighter orange at the top to a deeper, richer orange towards the bottom, with subtle shading on its facets suggesting depth and a smooth, reflective texture. Its appearance suggests it could be a valuable collectible or currency within the game.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.9
+      }
+    },
+    {
+      "id": "simple_orange_key",
+      "file": "items/simple_orange_key.png",
+      "description": "This is a clean, simple key rendered in a vibrant, solid orange color, giving it a playful and slightly cartoonish appearance. It has a classic house key design, featuring a large, circular bow (handle) on the left, a straight, smooth shank extending to the right, and a basic, rectangular-cut blade (bit) at the end. The texture appears smooth and uniform, suggesting either a plastic material or a perfectly painted metal. There are no signs of wear, rust, or intricate details, making it ideal for a kids' game where clarity and iconic shapes are important. It evokes a sense of finding a solution or unlocking a new path.",
+      "handle_anchor": {
+        "x": 0.18,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "orange_umbrella",
+      "file": "items/orange_umbrella.png",
+      "description": "This is a simple, stylized umbrella with a vibrant orange canopy. The canopy forms a triangular shape, indicating it's open and ready for use. It has a light grey or off-white curved handle, characteristic of a classic umbrella design. The overall aesthetic is clean and kid-friendly, suggesting it could offer protection from rain or sun in a playful context.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.85
+      }
+    },
+    {
+      "id": "simple_orange_umbrella",
+      "file": "items/simple_orange_umbrella.png",
+      "description": "A clear and simple umbrella featuring a vibrant orange canopy and a sleek light grey handle. The canopy is wide and dome-shaped, suggesting protection from rain, while the handle has a classic hooked design, suitable for holding or hanging. The overall appearance is clean and cartoonish, appropriate for a kids' game.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.9
+      }
+    },
+    {
+      "id": "ornate_gold_armor_piece_with_blue_gem",
+      "file": "items/ornate_gold_armor_piece_with_blue_gem.png",
+      "description": "This image depicts a stylized, intricately designed piece of armor, likely a chest plate or a substantial gauntlet. It is predominantly rendered in reflective gold tones, suggesting a polished metallic material, with highlights indicating its curved surfaces. Darker, reddish-brown accents, possibly representing leather or a rich fabric, are visible beneath the golden plating. The upper left portion features a segment of polished silver-colored metal, resembling a shoulder guard or collar. Ornate, swirling patterns are etched into the gold on the upper right side. A focal point is a prominent, glowing light-blue gem or orb, encircled by a smaller gold ring, positioned on the front-right. The artwork has a hand-painted feel, with visible brush strokes adding to its fantastical aesthetic.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.8
+      }
+    },
+    {
+      "id": "swirly_poop_pile",
+      "file": "items/swirly_poop_pile.png",
+      "description": "A cartoonish, light brown, conical pile with a distinct swirl at the top, strongly resembling a common 'poop' emoji. It features smooth, rounded contours, suggesting a soft or molded texture rather than rough or gritty. The color is uniform and flat, suitable for 2D animation in a kids' game. This object is presented as a humorous collectible or an unconventional, throwable item in a playful game environment.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.9
+      }
+    },
+    {
+      "id": "mystical_red_book_with_gold_trim",
+      "file": "items/mystical_red_book_with_gold_trim.png",
+      "description": "A vibrant red book with ornate golden trim and metallic corner pieces, giving it an ancient or magical appearance. The cover features a subtle, stylized dark symbol resembling a flame or a swirling arcane sigil. The book is slightly ajar, revealing pages with an aged, yellowish tint. Its overall design suggests it could be a powerful spellbook, a treasured tome of knowledge, or a quest item in a fantasy setting. The gold accents gleam as if catching light, adding to its mystical allure.",
+      "handle_anchor": {
+        "x": 0.35,
+        "y": 0.75
+      }
+    },
+    {
+      "id": "tilted_red_potion_bottle",
+      "file": "items/tilted_red_potion_bottle.png",
+      "description": "A small, translucent glass bottle, tilted at an angle, containing a vibrant red liquid with a few small air bubbles. The bottle has a dark grey neck with distinct golden screw threads, suggesting it can be sealed. The glass itself has highlights indicating reflectivity and a slight blue tint, while the red liquid glows softly from within. The overall appearance is a stylized, fantasy-game-like potion.",
+      "handle_anchor": {
+        "x": 0.65,
+        "y": 0.55
+      }
+    },
+    {
+      "id": "ancient_scroll_with_wax_seal",
+      "file": "items/ancient_scroll_with_wax_seal.png",
+      "description": "This item is a rolled-up scroll made of aged, light brown parchment with a slightly textured finish. It is bound in the middle by a thin, reddish-orange string or ribbon, which extends to a circular, dark orange wax seal or pendant. The seal has a subtle, indistinct indentation in its center, possibly a symbol or emblem. Both ends of the scroll are visible, showing tightly wound paper with distinct spiral patterns. The item's appearance suggests it is an ancient or mystical document, such as a map, a hidden message, or a magical spell. The lighting provides subtle shadows and highlights, giving it a stylized, cartoonish yet detailed look suitable for a kids' game.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "grey_round_bomb_with_fuse",
+      "file": "items/grey_round_bomb_with_fuse.png",
+      "description": "A simple, cartoonish spherical bomb, colored a soft light grey, featuring a short, light brown fuse extending from its top-left side. The bomb has subtle highlights, suggesting a smooth, slightly reflective surface. It appears benign and designed for a children's game aesthetic, suitable for puzzle mechanics or a prop rather than a destructive element. There are no intricate details or menacing features, maintaining a friendly visual style.",
+      "handle_anchor": {
+        "x": 0.4,
+        "y": 0.15
+      }
+    },
+    {
+      "id": "faceted_red_ruby_gemstone",
+      "file": "items/faceted_red_ruby_gemstone.png",
+      "description": "This image displays a single, exquisitely cut ruby gemstone, radiating a deep, rich crimson hue. The gem features multiple polished facets that brilliantly reflect light, with a prominent, luminous highlight on its upper right surface, indicating a smooth, reflective crystalline texture. The overall shape is a classic oval or cushion cut, designed to maximize its internal fire and sparkle. Its appearance suggests a valuable, precious object, likely to be used as a collectible item, currency, or a component for crafting in a fantasy game setting.",
+      "handle_anchor": {
+        "x": 0.49,
+        "y": 0.65
+      }
+    },
+    {
+      "id": "sealed_letter_envelope",
+      "file": "items/sealed_letter_envelope.png",
+      "description": "A stylized, slightly tilted beige-colored envelope, sealed with a prominent circular red wax seal. The envelope features subtle shading and highlights, giving it a somewhat worn or aged appearance, consistent with a hand-drawn art style. The wax seal has a simple, dark red spiral or swirl design impressed into it, suggesting a formal or important communication. The overall visual implies a classic, potentially magical or historically significant document.",
+      "handle_anchor": {
+        "x": 0.55,
+        "y": 0.6
+      }
+    },
+    {
+      "id": "stylized_short_sword",
+      "file": "items/stylized_short_sword.png",
+      "description": "A compact, stylized short sword designed for a fantasy setting. The blade is broad and made of polished silver-gray metal with multiple facets that catch the light, giving it a sharp, almost crystalline appearance. A darker gray core runs down the center of the blade. The crossguard is also metallic gray, robust, and features a prominent circular rivet-like detail on one side. The grip is wrapped in a textured, brown material, possibly leather or coarse rope, providing a sturdy hold. The pommel is a simple, dark gray metallic cap. The overall design is clean, sturdy, and cartoonish, suitable for a kid's game.",
+      "handle_anchor": {
+        "x": 0.72,
+        "y": 0.8
+      }
+    },
+    {
+      "id": "ornate_silver_breastplate",
+      "file": "items/ornate_silver_breastplate.png",
+      "description": "A stylized silver breastplate with intricate golden trim and etched swirling patterns on the upper chest. The armor piece features prominent shoulder guards and a central gold clasp design, connecting a lower, protective plate. It has a slightly worn, painted metal texture with visible brush strokes, giving it a handcrafted or antique appearance. The primary color is a cool grey, highlighted by warm gold details.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.75
+      }
+    },
+    {
+      "id": "spiked_warrior_helmet",
+      "file": "items/spiked_warrior_helmet.png",
+      "description": "A sturdy, stylized metal helmet featuring a dark grey base with prominent golden accents along the brow band and cheek guards. The top of the helmet is adorned with several sharp, light-grey spikes, giving it an aggressive appearance. On the right side, there is a circular, glowing blue gem embedded in a grey and gold frame, suggesting magical properties. The overall design implies a protective, possibly enchanted, piece of armor for a warrior.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.8
+      }
+    },
+    {
+      "id": "orange_spotted_mushroom",
+      "file": "items/orange_spotted_mushroom.png",
+      "description": "A cheerful and visually appealing mushroom with a vibrant orange, smooth, domed cap that is adorned with several lighter orange, perfectly circular spots. Its sturdy, cylindrical stem is a clean, creamy beige color, offering a clear and easily grippable base. The mushroom has a soft, illustrative texture, suggesting it is a natural and beneficial item, possibly a collectible or a power-up in a fantastical setting for a kids' game.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.9
+      }
+    },
+    {
+      "id": "stylized_broad_axe",
+      "file": "items/stylized_broad_axe.png",
+      "description": "A stylized axe with a broad, silver-colored blade and a wooden handle. The blade features a sharp, slightly jagged edge and a raised central panel for added visual depth. The metallic haft securing the blade is grey, accented by two prominent rivets, and topped with a decorative golden, ruffled cap. The wooden handle is a warm brown with visible grain texture and a small knot detail, tapering gently towards the base. A silver band encircles the bottom of the handle, culminating in a prominent silver pommel. The overall design suggests a sturdy, hand-held chopping tool suitable for a fantasy or cartoon game setting, implying good physical durability for combat or resource gathering.",
+      "handle_anchor": {
+        "x": 0.68,
+        "y": 0.78
+      }
+    },
+    {
+      "id": "light_beige_mushroom",
+      "file": "items/light_beige_mushroom.png",
+      "description": "A single mushroom featuring a smooth, light beige, dome-shaped cap with softly blurred edges. The cap sits atop a slender, slightly lighter colored stem that tapers gently towards the base. The overall rendering has a soft, almost painterly quality, devoid of sharp lines or heavy textures. It appears to be a common, collectible mushroom type, suitable for a kids' game.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.88
+      }
+    },
+    {
+      "id": "aged_treasure_map",
+      "file": "items/aged_treasure_map.png",
+      "description": "An aged, light brown parchment treasure map with slightly curled and torn edges, giving it a well-worn, antique appearance. A dark brown dashed line forms a winding path across its surface, leading to a prominent reddish-brown 'X' mark indicating the location of the treasure. Subtle darker brown stains and textures are visible on the paper, suggesting extensive use and exposure to the elements.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.75
+      }
+    },
+    {
+      "id": "stylized_wooden_bow_with_arrow",
+      "file": "items/stylized_wooden_bow_with_arrow.png",
+      "description": "A stylized wooden bow with an arrow nocked, rendered in a warm, textured art style suitable for a 2D game. The bow's limbs are crafted from light brown wood with visible grain patterns and gentle curves, suggesting natural material and craftsmanship. Each end of the bow is reinforced with a dark metallic or fabric wrapping in a purple-grey tone, securely holding the slender, light grey bowstring. An arrow is set on the bowstring, ready for release, featuring a sharp, triangular metallic grey arrowhead, a smooth golden-brown shaft, and distinctive reddish-brown fletching at its tail. The item has a slightly used but well-maintained appearance, conveying readiness for adventure.",
+      "handle_anchor": {
+        "x": 0.45,
+        "y": 0.58
+      }
+    },
+    {
+      "id": "wooden_sword",
+      "file": "items/wooden_sword.png",
+      "description": "A rustic, hand-crafted wooden sword, appearing to be made from several planks of light brown wood. The blade is constructed from three distinct pieces, giving it a segmented, slightly blunt edge, while the crossguard is a thicker, gnarled piece of wood. Two prominent silver rivets are visible, holding the main blade sections and the crossguard together. The wood features visible grain textures, suggesting a sturdy yet simple construction, ideal for a beginner's weapon or a child's toy. The overall design is stylized and cartoonish, with a warm, inviting aesthetic.",
+      "handle_anchor": {
+        "x": 0.78,
+        "y": 0.78
+      }
+    },
+    {
+      "id": "golden_star_collectible",
+      "file": "items/golden_star_collectible.png",
+      "description": "This is a bright, five-pointed golden-yellow star. It features a soft, almost glowing appearance with subtle shading that gives it a slight sense of depth and luminescence. The color is a vibrant yellow with hints of orange, suggesting a precious or magical quality. The edges are smooth and slightly blurred, fitting a friendly aesthetic. It's a classic symbol of achievement or a collectible item, radiating a cheerful and inviting energy, perfect for a kids' game.",
+      "handle_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "effects": [
+    {
+      "id": "gentle_blue_sparkle_waves",
+      "file": "effects/gentle_blue_sparkle_waves.png",
+      "description": "This visual effect depicts a serene light blue background adorned with subtle, horizontally oriented wavy patterns that suggest gentle movement, possibly water or air currents. Scattered across the scene are three soft, translucent four-pointed star glints, adding a touch of clean sparkle or magic. The overall impression is one of freshness, tranquility, and a light, ethereal shimmer.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "light_blue_upward_burst_effect",
+      "file": "effects/light_blue_upward_burst_effect.png",
+      "description": "The visual effect depicts a stylized upward burst of light blue energy or liquid. It features a rounded, slightly wavy base that smoothly tapers into a pointed peak, strongly suggesting rapid upward movement or ascent. The color is a consistent, soft, light blue, reminiscent of clear water or a gentle magical aura. The effect has a clean, smooth aesthetic, suitable for a kid-friendly game, and could represent anything from a water splash, a jump effect, or a subtle magical emanation.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.9
+      }
+    },
+    {
+      "id": "ethereal_cyan_energy_ring",
+      "file": "effects/ethereal_cyan_energy_ring.png",
+      "description": "This visual effect depicts a vibrant, ethereal ring of energy glowing with shades of cyan and aqua blue. The center of the ring is a bright, almost white luminescence, suggesting a powerful core, which diffuses outwards. The blue energy forms a cloud-like, swirling texture around the central void, with soft, translucent edges that fade gently into the background. The varying intensity and cloud-like structure give the impression of magical movement or a pulsating aura, radiating a gentle yet potent magical energy.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "swirling_blue_energy_wave_effect",
+      "file": "effects/swirling_blue_energy_wave_effect.png",
+      "description": "This visual effect depicts a swirling, translucent cloud of light blue and cyan energy or vapor. The form is elongated and appears to be moving or expanding from left to right, with the left side showcasing a denser concentration of vibrant aqua tones. As it extends towards the right, the blue hues gradually lighten and fade into a soft, ethereal white transparency, creating a dynamic, ephemeral appearance. The overall intensity is moderate, suggesting a gentle magical burst, a water splash, or a wispy smoke trail.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "soft_blue_glow_puff",
+      "file": "effects/soft_blue_glow_puff.png",
+      "description": "This visual effect depicts a soft, amorphous blob of light blue, almost ethereal energy or mist. Its edges are extremely blurred and faded, giving it a gentle, cloud-like appearance. The color is a consistent light cyan blue, suggesting a calming or magical aura. There are no distinct particles, rather it appears as a diffused mass with a low, subtle intensity, suitable for ambient effects like a faint magical shimmer, a gentle cloud puff, or a soft highlight.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "glowing_cyan_ring_aura",
+      "file": "effects/glowing_cyan_ring_aura.png",
+      "description": "This visual effect presents a soft, translucent ring of glowing energy in vibrant shades of light cyan and aqua blue. The edges are diffuse and feathered, giving it a ethereal, almost smoke-like appearance, while maintaining a clear circular form. The inner portion of the ring is brighter, suggesting a core of light, with the color gradually deepening towards the outer perimeter. There are no distinct particle motions, but the overall impression is one of a gentle, pulsating magical aura or a lingering enchanted field, suitable for indicating spells, buffs, or environmental magical zones. The intensity is moderate, providing a visible yet not overwhelming magical presence.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "radiant_fire_ring",
+      "file": "effects/radiant_fire_ring.png",
+      "description": "A vibrant, intense visual effect depicting a radiant ring of fire and energy. The inner core is bright yellow, transitioning to fiery orange and hints of red at the outer edges. The effect has a diffuse, energetic quality, suggesting a sudden burst or an aura of intense heat and light. The ring shape is slightly uneven, giving it a dynamic, natural appearance.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "orange_fire_blast",
+      "file": "effects/orange_fire_blast.png",
+      "description": "This visual effect depicts a vibrant, horizontally elongated blast of fire or energy. It features a bright yellow core that transitions into fiery orange, with tendrils of red smoke or embers trailing off to the right, indicating rapid motion. The intensity is concentrated in the central, denser part of the effect, gradually dissipating into wispy, semi-transparent edges. The overall impression is one of a quick, energetic burst, suitable for impacts or fast-moving projectiles.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "soft_cartoon_fire_effect",
+      "file": "effects/soft_cartoon_fire_effect.png",
+      "description": "A soft-edged, stylized fire effect featuring a vibrant yellow base that smoothly transitions upwards into a warmer orange, culminating in a translucent, light red and pink glow at its highest points. The overall appearance is gentle and warm, suggesting a moderate intensity flame, ideal for indicating a small, friendly fire or a source of light without being aggressive. The edges are diffuse, giving it a painterly, soft look suitable for a kids' game, implying a gentle, flickering upward motion.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.8
+      }
+    },
+    {
+      "id": "light_green_stylized_spiral_swirl_effect",
+      "file": "effects/light_green_stylized_spiral_swirl_effect.png",
+      "description": "A soft, pastel light green stylized spiral effect. The swirl starts broadly from the bottom-left and coils tightly towards the center-right of the image, conveying a sense of gentle rotation or magical energy. The edges are slightly blurred, giving it a dreamlike or ethereal quality suitable for a visual effect like wind, magic, or a portal in a kids' game. The intensity is moderate, suggesting a calm rather than violent motion.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "light_blue_gaseous_hexagonal_effect",
+      "file": "effects/light_blue_gaseous_hexagonal_effect.png",
+      "description": "A soft, translucent light blue amorphous cloud or gaseous blob, with a subtle internal glow. Within its misty form, three lighter, faint hexagonal shapes are visible, appearing to drift or be embedded within the main mass. The overall effect is gentle and ethereal, resembling a magical wisp, a soft bubble, or a shimmering gaseous anomaly. The colors are predominantly cool, light blues, suggesting a magical or elemental property, with a very soft intensity.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "yellow_lightning_bolt_effect",
+      "file": "effects/yellow_lightning_bolt_effect.png",
+      "description": "A vibrant, stylized lightning bolt effect rendered in bright yellow with a soft, ethereal glow radiating outwards. The bolt itself has sharp, jagged edges typical of lightning, but its overall appearance is smooth and polished, suggesting a magical or energetic burst rather than a natural storm. The color gradient within the bolt goes from a lighter yellow at its core to a deeper, more saturated yellow at its edges, enhancing its energetic visual impact. The soft glow further emphasizes its power and visibility, making it suitable for representing a quick action, an activated ability, or a jolt of energy in a playful kids' game.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "stylized_blue_energy_burst",
+      "file": "effects/stylized_blue_energy_burst.png",
+      "description": "A dynamic, stylized visual effect featuring a vibrant light blue energy burst. The effect has a central, slightly blurred core that branches outwards with rounded, soft-edged tendrils, giving it a fluid, ethereal appearance. It suggests a rapid upward or outward motion, characteristic of a magical spell, an electrical discharge, or a sudden burst of power. The overall form is abstract and energetic, with a subtle glow and soft blending edges.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "soft_blue_cloud_effect",
+      "file": "effects/soft_blue_cloud_effect.png",
+      "description": "A soft, gently rounded cloud shape, predominantly white with a light blue gradient towards the bottom, suggesting a light, airy presence typical of a friendly sky or weather effect. The edges are smooth and diffuse, giving it a cartoonish and gentle appearance, suitable for a serene or cheerful atmosphere.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "glowing_blue_water_pillar",
+      "file": "effects/glowing_blue_water_pillar.png",
+      "description": "A dynamic, glowing blue water pillar effect, rising vertically from a narrow base. It features multiple shades of translucent blue, ranging from light cyan at the edges to a deeper azure in the core, giving it a vibrant, ethereal quality. The visual movement suggests an upward surge or a constant, powerful flow, with soft, slightly blurred edges indicating speed and energetic motion. The overall effect appears intense and magical, resembling a concentrated geyser of pure elemental energy or highly pressurized water.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.65
+      }
+    },
+    {
+      "id": "orange_spiral_vortex_effect",
+      "file": "effects/orange_spiral_vortex_effect.png",
+      "description": "This visual effect features a vibrant, warm orange spiral with smooth, rounded edges, giving it a soft yet energetic appearance. A subtle gradient across the spiral, with a lighter tone towards the top-left, suggests a gentle sheen or internal illumination, adding a sense of depth and dynamism. The continuous, inward-curling shape evokes a sense of fluid motion, like a gentle vortex, magical swirl, or a mystical portal opening. The overall intensity is moderate, suggesting a controlled magical presence rather than an explosive burst.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "purple_glowing_ring_effect",
+      "file": "effects/purple_glowing_ring_effect.png",
+      "description": "This visual effect depicts a soft, vibrant purple glowing ring with diffused, slightly smoky edges. The intensity of the glow appears brighter towards the inner edge of the ring, gradually fading into a more ethereal, wispy texture outwards. It forms a horizontally oriented oval shape, suggesting an aura or magical field. The overall impression is one of gentle magic or a subtle energy emission.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "small_fiery_explosion",
+      "file": "effects/small_fiery_explosion.png",
+      "description": "A compact and vibrant visual effect depicting a small, energetic burst. The core of the effect is an intense bright yellow, transitioning outwards to warm orange and soft reddish hues. Faint, diffuse wisps of red extend from the edges, suggesting rapid expansion and dissipation. The overall impression is a soft yet powerful puff of light and heat, resembling a minor explosion or a magical burst.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "soft_blue_cloud_effect",
+      "file": "effects/soft_blue_cloud_effect_114.png",
+      "description": "The image displays a soft, stylized cloud effect rendered in a gentle light blue hue. It features an amorphous, billowy shape with rounded edges, suggesting a smooth, ethereal presence. A subtle gradient transitions from a brighter, almost white tone at the top-center to a slightly deeper blue along the bottom and sides, giving it a soft volumetric feel. The overall appearance is opaque yet light and airy, resembling a gentle smoke puff or a serene atmospheric cloud. There are no individual particles, indicating a unified, smooth visual element with a low intensity and a calming aesthetic.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "fluffy_light_blue_cloud",
+      "file": "effects/fluffy_light_blue_cloud.png",
+      "description": "A soft, fluffy cloud with a gentle, light blue gradient. The top is almost white, smoothly transitioning to a pale sky blue at the bottom. Its edges are rounded and indistinct, suggesting a light, airy texture without harsh lines or sharp details. It evokes a calm and friendly atmosphere, suitable for ambient background elements or weather effects.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "id": "stylized_lightning_bolt_effect",
+      "file": "effects/stylized_lightning_bolt_effect.png",
+      "description": "This visual effect depicts a stylized, jagged lightning bolt or energy burst. It features a light grey color with subtle shading, giving it a soft yet impactful appearance. The shape is wide and somewhat irregular at the top, tapering sharply to a point downwards. It conveys a quick, downward strike of energy or a magical discharge, suggesting a sudden and intense visual event without hard edges or intense glowing.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.3
+      }
+    },
+    {
+      "id": "stylized_torch_flame",
+      "file": "effects/stylized_torch_flame.png",
+      "description": "A vibrant and stylized torch featuring a lively orange and yellow flame rising from a brown, conical base. The torch appears to be wall-mounted, indicated by a grey bracket securely holding it. The flame exhibits a gentle, upward motion with its brightest point near the center, casting a warm, inviting glow. The overall design is simple and clean, suitable for a friendly 2D kids' game, providing a consistent light source and a visual fire effect.",
+      "center_anchor": {
+        "x": 0.5,
+        "y": 0.25
+      }
+    }
+  ],
+  "audio": [
+    {
+      "id": "playful_game_theme_music_loop",
+      "file": "audio/playful_game_theme_music_loop.mp3",
+      "description": "This background music for a 2D kids game would likely be an upbeat and cheerful instrumental piece, characterized by its bright and generally mid to high-pitched melodies. The tone would be distinctly whimsical, lighthearted, and innocent, designed to evoke a sense of fun and adventure without any underlying tension. It would probably feature a simple, memorable melody, often played by instruments such as glockenspiels, xylophones, pizzicato strings, or clear woodwind instruments like flutes and clarinets, possibly supported by gentle, bouncy percussion like wood blocks or shakers. The overall character would be playful and encouraging, maintaining a consistent, moderate tempo that isn't too fast or slow. It would likely be structured as a seamless loop, ensuring it can play continuously in various game environments without becoming repetitive or intrusive, perfectly setting a friendly and inviting atmosphere for young players."
+    },
+    {
+      "id": "bird_chirp",
+      "file": "audio/bird_chirp.mp3",
+      "description": "This sound effect likely features a clear, distinct vocalization typical of a small to medium-sized bird. The pitch would generally be in the mid-to-high frequency range, characterized by short, sharp bursts of sound rather than a prolonged song. The tone would be bright, crisp, and clean, devoid of harshness, embodying a natural and organic quality. Its character would be lively and cheerful, potentially consisting of a single, isolated 'cheep!' or 'chip!' sound, or a rapid, repetitive series of these short calls. It strongly evokes an outdoor, natural environment, suggesting daytime or a tranquil setting, and would serve as a pleasant ambient element or an interactive sound cue within a kids' game."
+    },
+    {
+      "id": "book_page_turn",
+      "file": "audio/book_page_turn.mp3",
+      "description": "This sound effect likely portrays the gentle, distinct rustle and soft flap of a single page (or a small stack of pages) being turned in a book. The pitch would generally reside in the mid-to-high frequency range, characterized by crisp, dry papery tones. It would possess a delicate and subtle character, devoid of any harshness or excessive loudness, making it perfectly suitable for a children's game where clarity and pleasantness are paramount. Expect a brief 'swish' or 'whoosh' as the page moves, concluding with a soft 'crinkle' or 'settling' sound as it comes to rest, effectively signaling a progression in narrative or interaction within the game."
+    },
+    {
+      "id": "book_drops_heavy_thud",
+      "file": "audio/book_drops_heavy_thud.mp3",
+      "description": "This sound effect likely features a dull, low-to-mid frequency impact, characteristic of a moderately heavy object like a book hitting a solid surface. The pitch will be in the lower range, devoid of any sharp, high-frequency transients or metallic ringing. The tone is blunt, dense, and non-resonant, indicating a lack of significant reverberation or sustain. It's a quick, percussive 'thud' \u2013 short in duration, signifying a sudden, brief impact with minimal decay. The character of the sound conveys a sense of weight and solidity, suggesting a substantial book has been dropped or forcefully placed, resulting in a flat, almost cushioned yet firm landing sound that implies its mass without being overly loud or abrasive."
+    },
+    {
+      "id": "deep_rumble_ambience",
+      "file": "audio/deep_rumble_ambience.mp3",
+      "description": "This sound effect would likely be a continuous, low-frequency sound, deep in pitch and resonant in tone. It evokes a sense of vastness or a hidden presence, rumbling steadily in the background. Its character would be weighty and sustained, possibly with subtle undulations or shifts in intensity to create a dynamic yet continuous bed of sound. It's not sharp or aggressive, but rather a persistent, vibrating drone that sets an atmospheric mood \u2013 perhaps suggesting a large underground cave, a distant, gentle earthquake, or the slow, deliberate movement of a very large, non-threatening creature in the far distance within a fantastical kids game environment. It aims to create a mysterious or slightly tense atmosphere without being overtly frightening."
+    },
+    {
+      "id": "large_dinosaur_roar",
+      "file": "audio/large_dinosaur_roar.mp3",
+      "description": "This sound effect likely depicts a powerful and resonant roar, typical of a large, prehistoric creature. It would feature a very low to low pitch, conveying immense size and strength, possibly with a deep, guttural rumble or growl that builds in intensity. The tone would be rich and full-bodied, perhaps with a slightly rough or textured quality to add character and ancient feel. For a 2D kids game, the roar's character would be impactful and exciting, designed to evoke awe and adventure rather than pure fear, possibly having a slightly exaggerated or cartoonish sustain and a noticeable, booming decay that creates a sense of scale and presence within the game world."
+    },
+    {
+      "id": "cute_dog_bark",
+      "file": "audio/cute_dog_bark.mp3",
+      "description": "This sound effect would likely be a single, clear, enthusiastic bark from a domestic dog. The pitch would be in the medium to medium-high range, suggesting a smaller to medium-sized breed suitable for a kids' game character, rather than a deep, resonant bark of a large guard dog. The tone would be bright, lively, and friendly, conveying excitement, curiosity, or a playful greeting, completely devoid of any aggression or warning. It would likely be a crisp, relatively short vocalization, perhaps with a slight upward inflection, making it feel inviting and approachable for young players, perfect for a companion character or a background ambiance."
+    },
+    {
+      "id": "ui_error_notification",
+      "file": "audio/ui_error_notification.mp3",
+      "description": "This sound effect likely consists of a short, distinct audio cue designed to gently signal an incorrect action, invalid input, or a failed attempt within a 2D kids game. Its pitch would probably be in the medium to slightly higher range, ensuring it's noticeable without being startling or irritating for young players. The tone would be soft, friendly, and non-aggressive, perhaps reminiscent of a subtle 'bonk,' a gentle, descending two-note chime, or a quick, muffled 'wah-wah' or 'bloop' sound. The character of the sound would be clear and unambiguous, instantly conveying 'no' or 'try again' in a non-punitive manner, possibly with a slightly cartoonish or whimsical quality to fit the game's aesthetic. It would be brief and clean, preventing any frustration and encouraging continued engagement."
+    },
+    {
+      "id": "wood_fire_crackling",
+      "file": "audio/wood_fire_crackling.mp3",
+      "description": "This sound effect likely captures the distinct, irregular sounds of a fire burning, specifically focusing on the 'crackling' aspect. It would consist of a series of crisp, dry 'crackle' and 'snap' noises, varying in intensity and duration. The pitch of these crackles would generally be in the mid-to-high frequency range, suggesting small pieces of wood or fuel igniting or breaking apart. Underlying these sharp sounds, there might be a subtle, low-frequency hum or gentle hiss, indicative of sustained combustion. The overall tone would be warm, earthy, and natural, evoking a comforting and rustic ambiance. The character of the sound would be dynamic and somewhat unpredictable, with individual crackles occurring at random intervals, creating a living, breathing soundscape of a burning fire, perhaps from a campfire, fireplace, or torch."
+    },
+    {
+      "id": "footsteps_grass",
+      "file": "audio/footsteps_grass.mp3",
+      "description": "This sound effect would likely consist of a series of soft, rhythmic impacts, characteristic of someone walking or lightly jogging across a grassy surface. The pitch would be in the mid-range, avoiding both extremely high-pitched tiny scampers and deep, heavy thuds. The tone would be organic, natural, and somewhat muffled, with each step producing a gentle 'thump' accompanied by the subtle rustle or swish of grass blades compressing and releasing. There might be a very slight, soft crunch as weight shifts, conveying the texture of the ground. The overall character would be light, earthy, and consistent, suggesting typical character movement in an outdoor, natural environment suitable for a kids' game."
+    },
+    {
+      "id": "footsteps_on_stone",
+      "file": "audio/footsteps_on_stone.mp3",
+      "description": "This sound effect likely features a sequence of distinct, percussive impacts, characteristic of feet making contact with a hard, unyielding stone surface. The pitch would be in the mid-range, with an initial sharp, crisp transient 'tap' or 'click' as the foot strikes the stone, followed by a slightly deeper, more resonant 'thud' or 'clack' as weight is applied. The tone would be dry, solid, and inorganic, devoid of any squelch or softness. Depending on the environment, there might be a short, subtle reverberation or echo, giving a sense of space like a stone corridor or dungeon. The character of the sound would convey firmness and solidity, emphasizing the hardness and rigidity of the ground, making each step clear and definitive without being muffled or absorbed."
+    },
+    {
+      "id": "small_footsteps_wooden_floor_walk",
+      "file": "audio/small_footsteps_wooden_floor_walk.mp3",
+      "description": "This sound effect would likely feature a series of light, distinct footsteps walking across a wooden surface. The pitch would be relatively mid-to-high, suggesting a nimble, perhaps small character, rather than heavy adult steps. Each step would have a crisp, clear tone, characterized by a quick 'tap' or 'thud' followed by a subtle, brief resonance from the wooden floorboards, indicating a firm but not heavy impact. The character of the sound would be bright and energetic, reflecting a quick, rhythmic pace suitable for a child or a playful character in a 2D kids game. There would be minimal scuffing, focusing instead on the clean impact and the distinct woody echo."
+    },
+    {
+      "id": "glockenspiel_chime",
+      "file": "audio/glockenspiel_chime.mp3",
+      "description": "This sound effect would likely feature a high-pitched, clear, and very bright metallic tone, characteristic of a glockenspiel. Imagine a delicate, resonant 'ding' or 'tinkle' as metal bars are struck, producing a pure, crystalline sound that rings briefly. The pitch would generally be in the upper registers, creating a light and airy feel. Its tone is sharp yet sweet, with a distinct bell-like quality. Its character would be whimsical, cheerful, and possibly magical, making it ideal for positive feedback, magical power-ups, menu selections, or the appearance of something delightful and sparkling in a 2D kids' game."
+    },
+    {
+      "id": "gremlin_chatter",
+      "file": "audio/gremlin_chatter.mp3",
+      "description": "This sound effect, named 'gremlin_noise', would likely be a high-pitched, rapid, and somewhat chaotic vocalization characteristic of a mischievous gremlin. Expect a quick succession of chitters, snickers, and perhaps light cackles or squawks, conveying an impish and playful yet potentially annoying character. The tone would likely be sharp, possibly with a slightly raspy or grating quality, suggesting a small, energetic creature constantly in motion. It would not be a melodic sound, but rather a collection of non-verbal expressions \u2013 like quick squeaks, garbled murmurs, or agitated babbles \u2013 that collectively indicate the presence of a tiny, trickster-like entity, embodying a light, irritating, and hyperactive sonic signature within a kids' game environment."
+    },
+    {
+      "id": "horse_gallop",
+      "file": "audio/horse_gallop.mp3",
+      "description": "This sound effect would likely be a mid-to-low pitched, rhythmic series of rapid hoofbeats, evoking the fast, powerful movement of a horse at its quickest gait. The tone would be energetic and propulsive, characterized by a clear, repeating four-beat pattern (thump-a-thump-a, thump-a-thump-a) that conveys speed and momentum. For a kids game, the character of the sound would be clean and distinct, with each hoof strike having a clear, perhaps slightly exaggerated impact, avoiding muddiness. It might include subtle hints of a horse's labored breathing or the whoosh of air for a very fast gallop, but the primary focus would be on the percussive, syncopated rhythm of the hooves, suggesting excitement and a sense of swift travel."
+    },
+    {
+      "id": "heavy_rain_downpour",
+      "file": "audio/heavy_rain_downpour.mp3",
+      "description": "This sound effect would represent an exceptionally heavy, continuous downpour of rain, far beyond a typical shower or drizzle. The pitch would span a wide range, incorporating deep, rumbling low frequencies from the sheer volume of water impacting the ground and surrounding objects, mid-range frequencies from the dense patter of countless individual drops, and intermittent higher-pitched splashes as water collects and interacts with surfaces. The tone would be full, robust, and constant, conveying a relentless and immersive intensity, creating a thick sonic texture often described as a 'wall of sound.' Its character is powerful and potentially overwhelming, signaling a dramatic weather event that significantly impacts the game's atmosphere, suggesting a need for shelter or a somber mood."
+    },
+    {
+      "id": "collect_star_sparkle_chime",
+      "file": "audio/collect_star_sparkle_chime.mp3",
+      "description": "This sound effect would likely be a high-pitched, short, and bright audio cue, characteristic of successfully picking up a valuable item in a 2D kids game. It would feature a clean, clear, and somewhat ethereal tone, possibly incorporating a quick, ascending arpeggio or glissando of synthetic chimes, bells, or marimba-like sounds. The pitch would start moderately high and quickly rise to a very high, almost 'twinkling' frequency, giving it a magical and rewarding character. Expect a sharp, immediate attack followed by a very fast decay, possibly with a subtle, very short 'sparkle' or 'shimmer' at its peak to emphasize the celestial 'star' element. The overall sound should convey a sense of light magic, accomplishment, and positivity, without being harsh or too complex, making it instantly recognizable and satisfying for a young player."
+    },
+    {
+      "id": "magic_wand_sparkle",
+      "file": "audio/magic_wand_sparkle.mp3",
+      "description": "This sound effect likely represents a bright, high-pitched magical sparkle. It would feature a series of delicate, clear tones, possibly ascending or quickly twinkling, with a shimmering, ethereal quality. The tone would be crisp and light, reminiscent of tiny, high-frequency chimes or crystalline bells, followed by a very short, gentle decay. The overall character would be enchanting, whimsical, and distinctly magical, perfect for indicating a small spell being cast from a wand, an item magically appearing, or a gentle burst of magical energy in a 2D kids game."
+    },
+    {
+      "id": "water_splash",
+      "file": "audio/water_splash.mp3",
+      "description": "This sound effect likely depicts a brief, percussive event of water being agitated. It would feature a quick, clear 'splosh' or 'splash' sound, likely with a mid-to-high pitch to convey a light, playful, or energetic interaction suitable for a kids' game. The tone would be crisp and clean, avoiding overly deep or muddy frequencies, emphasizing the immediate impact and displacement of water. The character of the sound would be short and transient, possibly with a subtle 'wet' or 'gurgling' tail as the water settles back, making it feel dynamic and responsive to in-game actions like jumping into puddles or an object falling into water."
+    },
+    {
+      "id": "wonderbooks_success_chime",
+      "file": "audio/wonderbooks_success_chime.mp3",
+      "description": "This sound effect likely signifies a positive affirmation or accomplishment within the 'Wonderbooks' section of a 2D kids game. It would feature a bright, medium-to-high pitched, clear, and melodious tone, designed to be instantly recognizable as a reward. Imagine a gentle, short, ascending melodic chime, possibly using clean synth tones or delicate bells, with a subtle magical sparkle effect. The overall character should be uplifting, playful, and encouraging, evoking a sense of joy and achievement without being overly dramatic or loud. It would likely have a smooth attack and a brief, pleasant decay, possibly with a light, airy reverb to add a touch of whimsy and wonder, perfectly fitting for a child's game experience."
+    },
+    {
+      "id": "magic_book_swoosh",
+      "file": "audio/magic_book_swoosh.mp3",
+      "description": "This sound effect likely represents a swift, enchanting 'swoosh' associated with a magical or fantastical book. It would typically have a medium to medium-high pitch, conveying a sense of lightness and wonder. The tone would be whimsical and magical, possibly with a shimmering or ethereal quality that suggests a burst of magic, fairy dust, or the rapid appearance/disappearance of something magical. The character of the sound would be a quick, flowing motion, akin to a magical book opening or closing rapidly, a page turning with an ethereal energy, or a magical spell being cast from its pages. It would be smooth and fluid, carrying a clear sense of movement and enchantment, without being harsh or aggressive, perfectly suited for a whimsical kids' game."
+    }
+  ]
+}
